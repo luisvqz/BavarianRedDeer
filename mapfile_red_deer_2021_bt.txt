@@ -1,0 +1,2299 @@
+sample-id	year	season	sample location	location_filter	condition	locality	betaplus2	lab	betaplus	ID-sample location	old-ids	cond_year
+2	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+3	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+4	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+5	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+7	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+8	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+9	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+10	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+11	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+12	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+13	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+14	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+15	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+16	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+17	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+18	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+19	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+20	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+21	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+22	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+23	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+24	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+25	2017		Reschbachtal	ok	FL	FL	FL 2017		Reschbachtal 2017			FL 2017
+26	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+28	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+29	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+30	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+31	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+32	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+33	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+34	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+35	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+36	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+37	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+38	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+39	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+40	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+41	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+42	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+43	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+44	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+45	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+46	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+47	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+48	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+49	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+50	2017		Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2017		Ahornschachten 2017			WG 2017
+51	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+52	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+53	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+54	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+55	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+56	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+57	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+58	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+59	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+60	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+61	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+62	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+63	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+64	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+65	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+66	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+67	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+68	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+69	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+70	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+71	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+72	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+73	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+74	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+75	2017		Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2017		Neuhüttenwiese 2017			WG 2017
+76	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+77	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+78	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+79	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+80	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+81	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+82	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+83	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+84	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+85	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+86	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+87	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+88	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+89	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+90	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+91	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+92	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+93	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+94	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+95	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+96	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+97	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+98	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+99	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+100	2017		Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2017		Riedelhäng 2017			WG 2017
+101	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+102	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+103	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+104	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+105	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+106	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+107	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+108	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+109	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+110	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+111	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+112	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+113	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+114	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+115	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+116	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+117	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+118	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+119	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+120	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+121	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+122	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+123	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+124	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+125	2017		Buchenau	ok	WG	Buchenau	Buchenau 2017		Buchenau 2017			WG 2017
+126	2017		Zwieslerwaldhaus	ok	FL	FL	FL 2017		Zwieslerwaldhaus 2017			FL 2017
+127	2017		Zwieslerwaldhaus	ok	FL	FL	FL 2017		Zwieslerwaldhaus 2017			FL 2017
+128	2017		Zwieslerwaldhaus	ok	FL	FL	FL 2017		Zwieslerwaldhaus 2017			FL 2017
+129	2017		Zwieslerwaldhaus	ok	FL	FL	FL 2017		Zwieslerwaldhaus 2017			FL 2017
+130	2017		Zwieslerwaldhaus	ok	FL	FL	FL 2017		Zwieslerwaldhaus 2017			FL 2017
+131	2017		Zwieslerwaldhaus	ok	FL	FL	FL 2017		Zwieslerwaldhaus 2017			FL 2017
+132	2017		Zwieslerwaldhaus	ok	FL	FL	FL 2017		Zwieslerwaldhaus 2017			FL 2017
+133	2017		Zwieslerwaldhaus	ok	FL	FL	FL 2017		Zwieslerwaldhaus 2017			FL 2017
+134	2017		Zwieslerwaldhaus	ok	FL	FL	FL 2017		Zwieslerwaldhaus 2017			FL 2017
+135	2017		Zwieslerwaldhaus	ok	FL	FL	FL 2017		Zwieslerwaldhaus 2017			FL 2017
+136	2017		Zwieslerwaldhaus	ok	FL	FL	FL 2017		Zwieslerwaldhaus 2017			FL 2017
+137	2017		Zwieslerwaldhaus	ok	FL	FL	FL 2017		Zwieslerwaldhaus 2017			FL 2017
+138	2017		Zwieslerwaldhaus	ok	FL	FL	FL 2017		Zwieslerwaldhaus 2017			FL 2017
+139	2017		Zwieslerwaldhaus	ok	FL	FL	FL 2017		Zwieslerwaldhaus 2017			FL 2017
+002A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+002B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+003A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+003B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+004A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+004B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+005A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+005B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+006A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+007A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+007B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+008A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+008B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+009A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+009B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+010A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+010B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+011A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+011B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+012A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+012B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+013A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+014A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+014B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+015A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+015B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+017A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+017B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+018A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+018B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+019A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+019B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+020A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+021A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+021B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+022B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+023A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+024A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+025A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+026B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+027A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+028A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+029A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+030A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+030B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+031A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+031B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+032A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+032B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+032C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+033A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+033B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+034A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+034B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+035A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+035B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+035C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+036A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+036B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+036C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+037A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+037B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+037C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+038A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+038B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+039A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+039B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+039C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+040A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+040B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+040C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+041A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+041B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+041C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+042A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+042B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+043A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+043B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+044A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+045A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+045B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+045C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+046A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+046B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+047A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+048A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+048B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+049A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+049B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+050A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+050B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+050C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+051A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+051B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+051C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+052A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+052B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+053A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+053B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+054A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+054B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+054C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+055A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+055B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+055C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+056A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+056B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+056C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+057A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+057B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+057C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+058A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+059A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+059B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+059C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+060A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+060B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+060C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+061A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+061B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+061C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+062A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+062B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+062C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+063A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+063B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+064A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+064B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+065A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+065B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+065C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+066A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+066B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+066C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+067A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+067B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+067C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+068A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+068B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+068C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+069A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+069B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+069C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+070A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+070B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+070C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+071A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+071B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+071C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+072A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+072B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+072C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+073A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+073B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+073C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+074A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+074B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+074C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+075A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+075B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+075C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+076A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+076B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+076C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+077A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+077B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+077C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+078A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+078B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+078C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+079A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+079B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+079C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+080A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+080B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+080C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+081A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+081B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+081C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+082A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+082C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+083A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+083B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+083C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+084A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+084B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+084C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+085A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+085B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+086A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+086B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+086C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+087A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+087B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+087C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+088A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+089A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+089B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+089C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+090A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+090B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+090C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+091A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+091B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+091C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+092A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+092B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+092C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+093A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+093B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+093C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+094A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+094B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+094C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+095A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+095B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+095C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+096C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+097A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+097B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+097C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+098A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+098B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+098C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+099A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+099B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+099C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+100A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+100B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+100C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+101A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+101B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+101C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+102A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+102B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+102C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+103A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+103B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+103C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+104A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+104B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+105A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+105B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+105C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+106A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+106B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+107A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+107B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+108A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+108B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+108C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+109A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+109B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+109C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+110A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+110B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+110C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+111A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+111B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+111C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+112A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+112B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+112C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+113A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+113B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+113C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+114A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+114B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+115A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+115B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+115C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+116A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+116B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+116C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+117A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+117B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+117C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+118A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+118B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+118C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+119A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+119B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+119C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+120A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+120B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+120C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+121A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+121B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+121C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+122A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+122B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+122C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+123A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+123B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+123C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+124A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+124B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+124C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+125A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+125B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+125C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+126A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+126B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+126C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+127A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+127B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+127C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+128A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+128B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+128C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+129B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+129C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+130A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+130B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+130C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+131A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+131B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+132A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+132B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+133A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+133B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+133C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+134A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+134B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+135A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+135B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+136A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+136B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+136C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+137A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+137B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+137C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+138A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+138B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+138C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+139A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+139B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+139C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+140A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+140B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+140C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+141A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+141B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+141C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+142A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+142C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+143A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+143B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+143C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+144A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+144B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+144C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+145A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+145B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+145C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+146A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+146B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+146C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+147A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+147B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+147C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+148A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+148B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+148C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+149A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+149B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+149C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+150A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+150B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+150C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+151A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+151B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+151C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+152A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+152B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+152C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+153A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+153B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+153C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+154A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+154B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+154C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+155A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+155B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+155C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+156A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+156B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+156C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+157A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+157B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+157C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+158A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+158B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+158C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+159A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+159B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+159C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+160A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+160B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+160C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+161A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+161B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+161C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+162A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+162B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+163A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+163B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+163C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+164A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+164C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+165A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+165B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+165C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+166A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+166B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+166C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+167A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+167B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+167C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+168A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+168B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+168C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+169A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+169B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+169C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+170A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+170B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+170C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+171A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+171B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+171C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+172A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+172B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+172C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+173A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+173B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+173C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+174A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+174B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+174C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+175A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+175B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+175C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+176A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+176B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+176C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+177A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+177B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+177C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+178A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+178B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+178C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+179A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+179B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+179C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+180A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+180B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+180C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+181A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+181B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+181C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+182A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+182B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+182C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+183A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+183B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+183C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+184A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+184B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+184C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+185A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+185B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+185C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+186A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+186B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+186C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+187A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+187B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+187C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+188A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+188B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+188C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+189A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+189B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+189C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+190A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+190B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+190C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+191A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+191B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+191C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+192A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+192B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+192C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+193A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+193B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+193C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+194A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+194B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+194C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+195A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+195B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+195C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+196A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+196B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+196C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+197A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+197B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+197C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+198A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+198B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+198C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+199A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+199B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+199C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+200A	2020			empty	FL	FL	FL 2020		2020			FL 2020
+200B	2020			empty	FL	FL	FL 2020		2020			FL 2020
+200C	2020			empty	FL	FL	FL 2020		2020			FL 2020
+29469-10.07.2018-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29469-10.07.2018-A	FL 2018
+29494-15.07.2018-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29494-15.07.2018-A	FL 2018
+29494-15.07.2018-B	2018	summer		empty	FL	FL	FL 2018		2018		29494-15.07.2018-B	FL 2018
+29495-15.07.2018-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29495-15.07.2018-A	FL 2018
+29495-15.07.2018-B	2018	summer		empty	FL	FL	FL 2018		2018		29495-15.07.2018-B	FL 2018
+29495-24.07.2018-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29495-24.07.2018-A	FL 2018
+29495-24.07.2018-B	2018	summer		empty	FL	FL	FL 2018		2018		29495-24.07.2018-B	FL 2018
+29496-01.10.2018-1.1-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29496-01.10.2018-1.1-A	FL 2018
+29496-01.10.2018-1.1-B	2018	autumn		empty	FL	FL	FL 2018		2018		29496-01.10.2018-1.1-B	FL 2018
+29496-01.10.2018-1.2-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29496-01.10.2018-1.2-A	FL 2018
+29496-01.10.2018-1.2-B	2018	autumn		empty	FL	FL	FL 2018		2018		29496-01.10.2018-1.2-B	FL 2018
+29496-01.10.2018-2.1-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29496-01.10.2018-2.1-A	FL 2018
+29496-01.10.2018-2.1-B	2018	autumn		empty	FL	FL	FL 2018		2018		29496-01.10.2018-2.1-B	FL 2018
+29496-01.10.2018-2.2-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29496-01.10.2018-2.2-A	FL 2018
+29496-01.10.2018-2.2-B	2018	autumn		empty	FL	FL	FL 2018		2018		29496-01.10.2018-2.2-B	FL 2018
+29496-05.09.2018-1.1-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29496-05.09.2018-1.1-A	FL 2018
+29496-05.09.2018-1.1-B	2018	autumn		empty	FL	FL	FL 2018		2018		29496-05.09.2018-1.1-B	FL 2018
+29496-05.09.2018-1.2-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29496-05.09.2018-1.2-A	FL 2018
+29496-05.09.2018-1.2-B	2018	autumn		empty	FL	FL	FL 2018		2018		29496-05.09.2018-1.2-B	FL 2018
+29496-05.09.2018-2.1-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29496-05.09.2018-2.1-A	FL 2018
+29496-05.09.2018-2.1-B	2018	autumn		empty	FL	FL	FL 2018		2018		29496-05.09.2018-2.1-B	FL 2018
+29496-07.07.2018-1.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29496-07.07.2018-1.1-A	FL 2018
+29496-07.07.2018-1.1-B	2018	summer		empty	FL	FL	FL 2018		2018		29496-07.07.2018-1.1-B	FL 2018
+29496-07.07.2018-2.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29496-07.07.2018-2.1-A	FL 2018
+29496-07.07.2018-4.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29496-07.07.2018-4.1-A	FL 2018
+29496-07.07.2018-5.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29496-07.07.2018-5.1-A	FL 2018
+29496-08.08.2018-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29496-08.08.2018-A	FL 2018
+29496-08.08.2018-B	2018	summer		empty	FL	FL	FL 2018		2018		29496-08.08.2018-B	FL 2018
+29496-10.07.2018-B	2018	summer		empty	FL	FL	FL 2018		2018		29496-10.07.2018-B	FL 2018
+29496-13.07.2018-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29496-13.07.2018-A	FL 2018
+29496-13.07.2018-B	2018	summer		empty	FL	FL	FL 2018		2018		29496-13.07.2018-B	FL 2018
+29497-15.07.2018-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29497-15.07.2018-A	FL 2018
+29497-15.07.2018-B	2018	summer		empty	FL	FL	FL 2018		2018		29497-15.07.2018-B	FL 2018
+29499-29.06.2018-1.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29499-29.06.2018-1.1-A	FL 2018
+29499-29.06.2018-1.2-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29499-29.06.2018-1.2-A	FL 2018
+29499-29.06.2018-2.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29499-29.06.2018-2.1-A	FL 2018
+29499-29.06.2018-2.2-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29499-29.06.2018-2.2-A	FL 2018
+29499-29.06.2018-3.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29499-29.06.2018-3.1-A	FL 2018
+29500-05.09.2018-1.1-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29500-05.09.2018-1.1-A	FL 2018
+29500-05.09.2018-1.1-B	2018	autumn		empty	FL	FL	FL 2018		2018		29500-05.09.2018-1.1-B	FL 2018
+29500-05.09.2018-2.1-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29500-05.09.2018-2.1-A	FL 2018
+29500-05.09.2018-2.1-B	2018	autumn		empty	FL	FL	FL 2018		2018		29500-05.09.2018-2.1-B	FL 2018
+29500-05.09.2018-2.2-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29500-05.09.2018-2.2-A	FL 2018
+29500-05.09.2018-2.2-B	2018	autumn		empty	FL	FL	FL 2018		2018		29500-05.09.2018-2.2-B	FL 2018
+29500-06.09.2018-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29500-06.09.2018-A	FL 2018
+29500-06.09.2018-B	2018	autumn		empty	FL	FL	FL 2018		2018		29500-06.09.2018-B	FL 2018
+29500-08.08.2018-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29500-08.08.2018-A	FL 2018
+29500-08.08.2018-B	2018	summer		empty	FL	FL	FL 2018		2018		29500-08.08.2018-B	FL 2018
+29500-11.07.2018-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29500-11.07.2018-A	FL 2018
+29500-11.07.2018-B	2018	summer		empty	FL	FL	FL 2018		2018		29500-11.07.2018-B	FL 2018
+29500-15.11.2018-1.1-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29500-15.11.2018-1.1-A	FL 2018
+29500-15.11.2018-1.1-B	2018	autumn		empty	FL	FL	FL 2018		2018		29500-15.11.2018-1.1-B	FL 2018
+29500-15.11.2018-2.1-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29500-15.11.2018-2.1-A	FL 2018
+29500-15.11.2018-2.1-B	2018	autumn		empty	FL	FL	FL 2018		2018		29500-15.11.2018-2.1-B	FL 2018
+29500-24.07.2018-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29500-24.07.2018-A	FL 2018
+29500-24.07.2018-B	2018	summer		empty	FL	FL	FL 2018		2018		29500-24.07.2018-B	FL 2018
+29503-05.09.2018-1.1-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29503-05.09.2018-1.1-A	FL 2018
+29503-05.09.2018-1.1-B	2018	autumn		empty	FL	FL	FL 2018		2018		29503-05.09.2018-1.1-B	FL 2018
+29503-05.09.2018-1.2-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29503-05.09.2018-1.2-A	FL 2018
+29503-05.09.2018-1.2-B	2018	autumn		empty	FL	FL	FL 2018		2018		29503-05.09.2018-1.2-B	FL 2018
+29503-05.09.2018-2.1-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29503-05.09.2018-2.1-A	FL 2018
+29503-05.09.2018-2.1-B	2018	autumn		empty	FL	FL	FL 2018		2018		29503-05.09.2018-2.1-B	FL 2018
+29506-05.09.2018-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29506-05.09.2018-A	FL 2018
+29506-05.09.2018-B	2018	autumn		empty	FL	FL	FL 2018		2018		29506-05.09.2018-B	FL 2018
+29506-16.11.2018-1.1-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29506-16.11.2018-1.1-A	FL 2018
+29506-16.11.2018-1.1-B	2018	autumn		empty	FL	FL	FL 2018		2018		29506-16.11.2018-1.1-B	FL 2018
+29506-16.11.2018-2.1-A	2018	autumn		empty	FL	FL	FL 2018		2018		29506-16.11.2018-2.1-A	FL 2018
+29506-23.07.2018-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29506-23.07.2018-A	FL 2018
+29506-23.07.2018-B	2018	summer		empty	FL	FL	FL 2018		2018		29506-23.07.2018-B	FL 2018
+29509-03.07.2018-2.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29509-03.07.2018-2.1-A	FL 2018
+29509-03.07.2018-3.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29509-03.07.2018-3.1-A	FL 2018
+29509-03.07.2018-4.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29509-03.07.2018-4.1-A	FL 2018
+29509-05.09.2018-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29509-05.09.2018-A	FL 2018
+29509-05.09.2018-B	2018	autumn		empty	FL	FL	FL 2018		2018		29509-05.09.2018-B	FL 2018
+29509-16.11.2018-1.1-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29509-16.11.2018-1.1-A	FL 2018
+29509-16.11.2018-1.1-B	2018	autumn		empty	FL	FL	FL 2018		2018		29509-16.11.2018-1.1-B	FL 2018
+29509-16.11.2018-2.2-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29509-16.11.2018-2.2-A	FL 2018
+29509-16.11.2018-2.2-B	2018	autumn		empty	FL	FL	FL 2018		2018		29509-16.11.2018-2.2-B	FL 2018
+29509-23.07.2018-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29509-23.07.2018-A	FL 2018
+29509-23.07.2018-B	2018	summer		empty	FL	FL	FL 2018		2018		29509-23.07.2018-B	FL 2018
+29509-27.08.2018-1.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29509-27.08.2018-1.1-A	FL 2018
+29509-27.08.2018-1.1-B	2018	summer		empty	FL	FL	FL 2018		2018		29509-27.08.2018-1.1-B	FL 2018
+29509-27.08.2018-1.2-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29509-27.08.2018-1.2-A	FL 2018
+29509-27.08.2018-1.2-B	2018	summer		empty	FL	FL	FL 2018		2018		29509-27.08.2018-1.2-B	FL 2018
+29509-27.08.2018-2.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29509-27.08.2018-2.1-A	FL 2018
+29509-27.08.2018-2.1-B	2018	summer		empty	FL	FL	FL 2018		2018		29509-27.08.2018-2.1-B	FL 2018
+29509-27.08.2018-3.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29509-27.08.2018-3.1-A	FL 2018
+29509-27.08.2018-3.1-B	2018	summer		empty	FL	FL	FL 2018		2018		29509-27.08.2018-3.1-B	FL 2018
+29514-03.07.2018-1.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29514-03.07.2018-1.1-A	FL 2018
+29514-03.07.2018-2.1-B	2018	summer		empty	FL	FL	FL 2018		2018		29514-03.07.2018-2.1-B	FL 2018
+29514-03.07.2018-2.2-B	2018	summer		empty	FL	FL	FL 2018		2018		29514-03.07.2018-2.2-B	FL 2018
+29514-03.07.2018-3.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29514-03.07.2018-3.1-A	FL 2018
+29514-23.11.2018-2.1-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29514-23.11.2018-2.1-A	FL 2018
+29514-23.11.2018-2.1-B	2018	autumn		empty	FL	FL	FL 2018		2018		29514-23.11.2018-2.1-B	FL 2018
+29514-27.08.2018-1.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29514-27.08.2018-1.1-A	FL 2018
+29514-27.08.2018-1.1-B	2018	summer		empty	FL	FL	FL 2018		2018		29514-27.08.2018-1.1-B	FL 2018
+29514-27.08.2018-1.2-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29514-27.08.2018-1.2-A	FL 2018
+29514-27.08.2018-1.2-B	2018	summer		empty	FL	FL	FL 2018		2018		29514-27.08.2018-1.2-B	FL 2018
+29514-27.08.2018-2.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29514-27.08.2018-2.1-A	FL 2018
+29514-27.08.2018-2.1-B	2018	summer		empty	FL	FL	FL 2018		2018		29514-27.08.2018-2.1-B	FL 2018
+29514-27.08.2018-3.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29514-27.08.2018-3.1-A	FL 2018
+29514-27.08.2018-3.1-B	2018	summer		empty	FL	FL	FL 2018		2018		29514-27.08.2018-3.1-B	FL 2018
+29515-06.09.2018-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29515-06.09.2018-A	FL 2018
+29515-06.09.2018-B	2018	autumn		empty	FL	FL	FL 2018		2018		29515-06.09.2018-B	FL 2018
+29515-13.07.2018-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29515-13.07.2018-A	FL 2018
+29515-13.07.2018-B	2018	summer		empty	FL	FL	FL 2018		2018		29515-13.07.2018-B	FL 2018
+29515-26.07.2018-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29515-26.07.2018-A	FL 2018
+29515-26.07.2018-B	2018	summer		empty	FL	FL	FL 2018		2018		29515-26.07.2018-B	FL 2018
+29516-02.07.2018-1.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29516-02.07.2018-1.1-A	FL 2018
+29516-02.07.2018-2.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29516-02.07.2018-2.1-A	FL 2018
+29516-06.09.2018-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29516-06.09.2018-A	FL 2018
+29516-06.09.2018-B	2018	autumn		empty	FL	FL	FL 2018		2018		29516-06.09.2018-B	FL 2018
+29516-11.07.2018-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29516-11.07.2018-A	FL 2018
+29516-11.07.2018-B	2018	summer		empty	FL	FL	FL 2018		2018		29516-11.07.2018-B	FL 2018
+29516-18.09.2018-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29516-18.09.2018-A	FL 2018
+29516-18.09.2018-B	2018	autumn		empty	FL	FL	FL 2018		2018		29516-18.09.2018-B	FL 2018
+29516-27.07.2018-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29516-27.07.2018-A	FL 2018
+29516-27.07.2018-B	2018	summer		empty	FL	FL	FL 2018		2018		29516-27.07.2018-B	FL 2018
+29517-19.11.2018-1.1-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29517-19.11.2018-1.1-A	FL 2018
+29517-19.11.2018-1.1-B	2018	autumn		empty	FL	FL	FL 2018		2018		29517-19.11.2018-1.1-B	FL 2018
+29517-19.11.2018-2.1-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29517-19.11.2018-2.1-A	FL 2018
+29517-19.11.2018-2.1-B	2018	autumn		empty	FL	FL	FL 2018		2018		29517-19.11.2018-2.1-B	FL 2018
+29517-28.08.2018-1.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29517-28.08.2018-1.1-A	FL 2018
+29517-28.08.2018-1.1-B	2018	summer		empty	FL	FL	FL 2018		2018		29517-28.08.2018-1.1-B	FL 2018
+29520-05.07.2018-1.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29520-05.07.2018-1.1-A	FL 2018
+29520-05.07.2018-2.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29520-05.07.2018-2.1-A	FL 2018
+29520-05.07.2018-3.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29520-05.07.2018-3.1-A	FL 2018
+29520-30.08.2018-1.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29520-30.08.2018-1.1-A	FL 2018
+29520-30.08.2018-1.1-B	2018	summer		empty	FL	FL	FL 2018		2018		29520-30.08.2018-1.1-B	FL 2018
+29520-30.08.2018-2.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29520-30.08.2018-2.1-A	FL 2018
+29520-30.08.2018-2.1-B	2018	summer		empty	FL	FL	FL 2018		2018		29520-30.08.2018-2.1-B	FL 2018
+29520-30.08.2018-3.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29520-30.08.2018-3.1-A	FL 2018
+29520-30.08.2018-3.1-B	2018	summer		empty	FL	FL	FL 2018		2018		29520-30.08.2018-3.1-B	FL 2018
+29520-30.08.2018-4.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29520-30.08.2018-4.1-A	FL 2018
+29520-30.08.2018-4.1-B	2018	summer		empty	FL	FL	FL 2018		2018		29520-30.08.2018-4.1-B	FL 2018
+29521-06.09.2018-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29521-06.09.2018-A	FL 2018
+29521-06.09.2018-B	2018	autumn		empty	FL	FL	FL 2018		2018		29521-06.09.2018-B	FL 2018
+29521-13.07.2018-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29521-13.07.2018-A	FL 2018
+29521-13.07.2018-B	2018	summer		empty	FL	FL	FL 2018		2018		29521-13.07.2018-B	FL 2018
+29521-26.07.2018-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29521-26.07.2018-A	FL 2018
+29521-26.07.2018-B	2018	summer		empty	FL	FL	FL 2018		2018		29521-26.07.2018-B	FL 2018
+29522-02.07.2018-1.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29522-02.07.2018-1.1-A	FL 2018
+29522-02.07.2018-2.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29522-02.07.2018-2.1-A	FL 2018
+29522-02.07.2018-3.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29522-02.07.2018-3.1-A	FL 2018
+29522-21.11.2018-1.1-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29522-21.11.2018-1.1-A	FL 2018
+29522-21.11.2018-1.1-B	2018	autumn		empty	FL	FL	FL 2018		2018		29522-21.11.2018-1.1-B	FL 2018
+29522-21.11.2018-2.1-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29522-21.11.2018-2.1-A	FL 2018
+29522-21.11.2018-2.1-B	2018	autumn		empty	FL	FL	FL 2018		2018		29522-21.11.2018-2.1-B	FL 2018
+29522-28.08.2018-1.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29522-28.08.2018-1.1-A	FL 2018
+29522-28.08.2018-1.1-B	2018	summer		empty	FL	FL	FL 2018		2018		29522-28.08.2018-1.1-B	FL 2018
+29522-28.08.2018-2.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		29522-28.08.2018-2.1-A	FL 2018
+29522-28.08.2018-2.1-B	2018	summer		empty	FL	FL	FL 2018		2018		29522-28.08.2018-2.1-B	FL 2018
+5921-19.11.2018-1.1-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		5921-19.11.2018-1.1-A	FL 2018
+5921-19.11.2018-1.1-B	2018	autumn		empty	FL	FL	FL 2018		2018		5921-19.11.2018-1.1-B	FL 2018
+5921-19.11.2018-2.1-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		5921-19.11.2018-2.1-A	FL 2018
+5921-19.11.2018-2.1-B	2018	autumn		empty	FL	FL	FL 2018		2018		5921-19.11.2018-2.1-B	FL 2018
+5951-28.08.2018-2.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		5951-28.08.2018-2.1-A	FL 2018
+5951-28.08.2018-2.1-B	2018	summer		empty	FL	FL	FL 2018		2018		5951-28.08.2018-2.1-B	FL 2018
+5951-28.08.2018-3.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		5951-28.08.2018-3.1-A	FL 2018
+5951-28.08.2018-3.1-B	2018	summer		empty	FL	FL	FL 2018		2018		5951-28.08.2018-3.1-B	FL 2018
+7783-21.11.2018-1.1-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		7783-21.11.2018-1.1-A	FL 2018
+7783-21.11.2018-1.1-B	2018	autumn		empty	FL	FL	FL 2018		2018		7783-21.11.2018-1.1-B	FL 2018
+7783-21.11.2018-3.1-A	2018	autumn	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		7783-21.11.2018-3.1-A	FL 2018
+7783-21.11.2018-3.1-B	2018	autumn		empty	FL	FL	FL 2018		2018		7783-21.11.2018-3.1-B	FL 2018
+7783-30.08.2018-1.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		7783-30.08.2018-1.1-A	FL 2018
+7783-30.08.2018-1.1-B	2018	summer		empty	FL	FL	FL 2018		2018		7783-30.08.2018-1.1-B	FL 2018
+7783-30.08.2018-1.2-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		7783-30.08.2018-1.2-A	FL 2018
+7783-30.08.2018-1.2-B	2018	summer		empty	FL	FL	FL 2018		2018		7783-30.08.2018-1.2-B	FL 2018
+7783-30.08.2018-2.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		7783-30.08.2018-2.1-A	FL 2018
+7783-30.08.2018-2.1-B	2018	summer		empty	FL	FL	FL 2018		2018		7783-30.08.2018-2.1-B	FL 2018
+7783-30.08.2018-3.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		7783-30.08.2018-3.1-A	FL 2018
+7783-30.08.2018-3.1-B	2018	summer		empty	FL	FL	FL 2018		2018		7783-30.08.2018-3.1-B	FL 2018
+7881-04.07.2018-1.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		7881-04.07.2018-1.1-A	FL 2018
+7881-04.07.2018-2.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		7881-04.07.2018-2.1-A	FL 2018
+7881-04.07.2018-3.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		7881-04.07.2018-3.1-A	FL 2018
+7881-04.07.2018-4.1-A	2018	summer	Reschbachtal or Hochberg??	ok	FL	FL	FL 2018		Reschbachtal or Hochberg?? 2018		7881-04.07.2018-4.1-A	FL 2018
+AH-001-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-001-A	WG 2019
+AH-001-A-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-001-A	WG 2021
+AH-001-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-001-B	WG 2019
+AH-001-B-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-001-B	WG 2021
+AH-002-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-002-A	WG 2019
+AH-002-A-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-002-A	WG 2021
+AH-002-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-002-B	WG 2019
+AH-002-B-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-002-B	WG 2021
+AH-003-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-003-A	WG 2019
+AH-003-A-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-003-A	WG 2021
+AH-003-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-003-B	WG 2019
+AH-003-B-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-003-B	WG 2021
+AH-004-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-004-A	WG 2019
+AH-004-A-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-004-A	WG 2021
+AH-004-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-004-B	WG 2019
+AH-004-B-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-004-B	WG 2021
+AH-005-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-005-A	WG 2019
+AH-005-A-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-005-A	WG 2021
+AH-005-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-005-B	WG 2019
+AH-005-B-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-005-B	WG 2021
+AH-006-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-006-A	WG 2019
+AH-006-A-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-006-A	WG 2021
+AH-006-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-006-B	WG 2019
+AH-006-B-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-006-B	WG 2021
+AH-007-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-007-A	WG 2019
+AH-007-A-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-007-A	WG 2021
+AH-007-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-007-B	WG 2019
+AH-007-B-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-007-B	WG 2021
+AH-008-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-008-A	WG 2019
+AH-008-A-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-008-A	WG 2021
+AH-008-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-008-B	WG 2019
+AH-008-B-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-008-B	WG 2021
+AH-009-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-009-A	WG 2019
+AH-009-A-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-009-A	WG 2021
+AH-009-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-009-B	WG 2019
+AH-009-B-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-009-B	WG 2021
+AH-010-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-010-A	WG 2019
+AH-010-A-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-010-A	WG 2021
+AH-010-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-010-B	WG 2019
+AH-010-B-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-010-B	WG 2021
+AH-011-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-011-A	WG 2019
+AH-011-A-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-011-A	WG 2021
+AH-011-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-011-B	WG 2019
+AH-011-B-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-011-B	WG 2021
+AH-012-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-012-A	WG 2019
+AH-012-A-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-012-A	WG 2021
+AH-012-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-012-B	WG 2019
+AH-012-B-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-012-B	WG 2021
+AH-013-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-013-A	WG 2019
+AH-013-A-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-013-A	WG 2021
+AH-013-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-013-B	WG 2019
+AH-013-B-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-013-B	WG 2021
+AH-014-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-014-A	WG 2019
+AH-014-A-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-014-A	WG 2021
+AH-014-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-014-B	WG 2019
+AH-014-B-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-014-B	WG 2021
+AH-015-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-015-A	WG 2019
+AH-015-A-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-015-A	WG 2021
+AH-015-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-015-B	WG 2019
+AH-015-B-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-015-B	WG 2021
+AH-016-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-016-A	WG 2019
+AH-016-A-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-016-A	WG 2021
+AH-016-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-016-B	WG 2019
+AH-016-B-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-016-B	WG 2021
+AH-017-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-017-A	WG 2019
+AH-017-A-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-017-A	WG 2021
+AH-017-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-017-B	WG 2019
+AH-017-B-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-017-B	WG 2021
+AH-018-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-018-A	WG 2019
+AH-018-A-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-018-A	WG 2021
+AH-018-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-018-B	WG 2019
+AH-018-B-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-018-B	WG 2021
+AH-019-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-019-A	WG 2019
+AH-019-A-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-019-A	WG 2021
+AH-019-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-019-B	WG 2019
+AH-019-B-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-019-B	WG 2021
+AH-020-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-020-A	WG 2019
+AH-020-A-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-020-A	WG 2021
+AH-020-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	AH	AH-020-B	WG 2019
+AH-020-B-2021	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-020-B	WG 2021
+AH-F-01	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-F01	WG 2021
+AH-F-02	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-F02	WG 2021
+AH-F-03	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-F03	WG 2021
+AH-F-04	2021	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2021		Ahornschachten 2021	AH	AH-F04	WG 2021
+AH-U1-A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U1-A	WG 2018
+AH-U1-B	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U1-B	WG 2018
+AH-U10-A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U10-A	WG 2018
+AH-U11-A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U11-A	WG 2018
+AH-U11-B	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U11-B	WG 2018
+AH-U12-A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U12-A	WG 2018
+AH-U12-B	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U12-B	WG 2018
+AH-U13-A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U13-A	WG 2018
+AH-U13-B	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U13-B	WG 2018
+AH-U14-A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U14-A	WG 2018
+AH-U14-B	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U14-B	WG 2018
+AH-U15-A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U15-A	WG 2018
+AH-U15-B	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U15-B	WG 2018
+AH-U16-A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U16-A	WG 2018
+AH-U16-B	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U16-B	WG 2018
+AH-U17A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U17-A	WG 2018
+AH-U17-A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U17-A	WG 2018
+AH-U17-B	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U17-B	WG 2018
+AH-U18-A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U18-A	WG 2018
+AH-U18A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U18-A	WG 2018
+AH-U18-B	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U18-B	WG 2018
+AH-U19-A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U19-A	WG 2018
+AH-U19A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U19-A	WG 2018
+AH-U19-B	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U19-B	WG 2018
+AH-U2-A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U2-A	WG 2018
+AH-U2-B	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U2-B	WG 2018
+AH-U20-A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U20-A	WG 2018
+AH-U20-B	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U20-B	WG 2018
+AH-U3-A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U3-A	WG 2018
+AH-U3-B	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U3-B	WG 2018
+AH-U4-A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U4-A	WG 2018
+AH-U4-B	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U4-B	WG 2018
+AH-U5-A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U5-A	WG 2018
+AH-U5-B	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U5-B	WG 2018
+AH-U6-A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U6-A	WG 2018
+AH-U6-B	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U6-B	WG 2018
+AH-U7-A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U7-A	WG 2018
+AH-U7-B	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U7-B	WG 2018
+AH-U8-A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U8-A	WG 2018
+AH-U8-B	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U8-B	WG 2018
+AH-U9-A	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U9-A	WG 2018
+AH-U9-B	2018	spring	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2018		Ahornschachten 2018	AH	AH-U9-B	WG 2018
+AL-U1-A	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U1-A	G 2018
+AL-U1-B	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U1-B	G 2018
+AL-U10-A	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U10-A	G 2018
+AL-U10-B	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U10-B	G 2018
+AL-U11-A	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U11-A	G 2018
+AL-U11-B	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U11-B	G 2018
+AL-U12-A	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U12-A	G 2018
+AL-U12-B	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U12-B	G 2018
+AL-U13-A	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U13-A	G 2018
+AL-U13-B	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U13-B	G 2018
+AL-U14-A	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U14-A	G 2018
+AL-U14-B	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U14-B	G 2018
+AL-U15-A	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U15-A	G 2018
+AL-U15-B	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U15-B	G 2018
+AL-U16-A	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U16-A	G 2018
+AL-U16-B	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U16-B	G 2018
+AL-U17-A	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U17-A	G 2018
+AL-U17-B	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U17-B	G 2018
+AL-U18-A	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U18-A	G 2018
+AL-U18-B	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U18-B	G 2018
+AL-U19-A	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U19-A	G 2018
+AL-U19-B	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U19-B	G 2018
+AL-U2-A	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U2-A	G 2018
+AL-U2-B	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U2-B	G 2018
+AL-U20-A	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U20-A	G 2018
+AL-U20-B	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U20-B	G 2018
+AL-U3-A	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U3-A	G 2018
+AL-U3-B	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U3-B	G 2018
+AL-U4-A	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U4-A	G 2018
+AL-U4-B	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U4-B	G 2018
+AL-U5-A	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U5-A	G 2018
+AL-U5-B	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U5-B	G 2018
+AL-U6-A	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U6-A	G 2018
+AL-U6-B	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U6-B	G 2018
+AL-U7-A	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U7-A	G 2018
+AL-U7-B	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U7-B	G 2018
+AL-U8-A	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U8-A	G 2018
+AL-U8-B	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U8-B	G 2018
+AL-U9-A	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U9-A	G 2018
+AL-U9-B	2018	spring	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL	AL-U9-B	G 2018
+AL2-U1-A	2018	summer	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL2	AL2-U1-A	G 2018
+AL2-U10-A	2018	summer	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL2	AL2-U10-A	G 2018
+AL2-U11-A	2018	summer	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL2	AL2-U11-A	G 2018
+AL2-U12-A	2018	summer	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL2	AL2-U12-A	G 2018
+AL2-U13-A	2018	summer	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL2	AL2-U13-A	G 2018
+AL2-U14-A	2018	summer	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL2	AL2-U14-A	G 2018
+AL2-U15-A	2018	summer	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL2	AL2-U15-A	G 2018
+AL2-U16-A	2018	summer	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL2	AL2-U16-A	G 2018
+AL2-U17-A	2018	summer	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL2	AL2-U17-A	G 2018
+AL2-U18-A	2018	summer	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL2	AL2-U18-A	G 2018
+AL2-U19-A	2018	summer	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL2	AL2-U19-A	G 2018
+AL2-U2-A	2018	summer	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL2	AL2-U2-A	G 2018
+AL2-U20-A	2018	summer	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL2	AL2-U20-A	G 2018
+AL2-U3-A	2018	summer	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL2	AL2-U3-A	G 2018
+AL2-U4-A	2018	summer	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL2	AL2-U4-A	G 2018
+AL2-U5-A	2018	summer	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL2	AL2-U5-A	G 2018
+AL2-U6-A	2018	summer	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL2	AL2-U6-A	G 2018
+AL2-U7-A	2018	summer	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL2	AL2-U7-A	G 2018
+AL2-U8-A	2018	summer	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL2	AL2-U8-A	G 2018
+AL2-U9-A	2018	summer	Altschönau	ok	G	Altschönau	Altschönau 2018		Altschönau 2018	AL2	AL2-U9-A	G 2018
+ALT-001-A	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-001-A	G 2019
+ALT-001-A-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-001-A	G 2021
+ALT-001-B	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-001-B	G 2019
+ALT-001-B-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-001-B	G 2021
+ALT-002-A	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-002-A	G 2019
+ALT-002-A-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-002-A	G 2021
+ALT-002-B	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-002-B	G 2019
+ALT-002-B-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-002-B	G 2021
+ALT-003-A	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-003-A	G 2019
+ALT-003-A-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-003-A	G 2021
+ALT-003-B	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-003-B	G 2019
+ALT-003-B-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-003-B	G 2021
+ALT-004-A	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-004-A	G 2019
+ALT-004-A-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-004-A	G 2021
+ALT-004-B	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-004-B	G 2019
+ALT-004-B-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-004-B	G 2021
+ALT-005-A	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-005-A	G 2019
+ALT-005-A-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-005-A	G 2021
+ALT-005-B	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-005-B	G 2019
+ALT-005-B-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-005-B	G 2021
+ALT-006-A	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-006-A	G 2019
+ALT-006-A-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-006-A	G 2021
+ALT-006-B	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-006-B	G 2019
+ALT-006-B-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-006-B	G 2021
+ALT-007-A	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-007-A	G 2019
+ALT-007-A-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-007-A	G 2021
+ALT-007-B	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-007-B	G 2019
+ALT-007-B-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-007-B	G 2021
+ALT-008-A	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-008-A	G 2019
+ALT-008-A-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-008-A	G 2021
+ALT-008-B	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-008-B	G 2019
+ALT-008-B-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-008-B	G 2021
+ALT-009-A	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-009-A	G 2019
+ALT-009-A-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-009-A	G 2021
+ALT-009-B	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-009-B	G 2019
+ALT-009-B-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-009-B	G 2021
+ALT-010-A	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-010-A	G 2019
+ALT-010-A-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-010-A	G 2021
+ALT-010-B	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-010-B	G 2019
+ALT-010-B-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-010-B	G 2021
+ALT-011-A	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-011-A	G 2019
+ALT-011-A-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-011-A	G 2021
+ALT-011-B	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-011-B	G 2019
+ALT-011-B-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-011-B	G 2021
+ALT-012-A	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-012-A	G 2019
+ALT-012-A-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-012-A	G 2021
+ALT-012-B	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-012-B	G 2019
+ALT-012-B-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-012-B	G 2021
+ALT-013-A	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-013-A	G 2019
+ALT-013-A-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-013-A	G 2021
+ALT-013-B	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-013-B	G 2019
+ALT-013-B-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-013-B	G 2021
+ALT-014-A	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-014-A	G 2019
+ALT-014-A-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-014-A	G 2021
+ALT-014-B	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-014-B	G 2019
+ALT-014-B-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-014-B	G 2021
+ALT-015-A	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-015-A	G 2019
+ALT-015-A-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-015-A	G 2021
+ALT-015-B	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-015-B	G 2019
+ALT-015-B-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-015-B	G 2021
+ALT-016-A	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-016-A	G 2019
+ALT-016-A-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-016-A	G 2021
+ALT-016-B	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-016-B	G 2019
+ALT-016-B-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-016-B	G 2021
+ALT-017-A	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-017-A	G 2019
+ALT-017-A-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-017-A	G 2021
+ALT-017-B	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-017-B	G 2019
+ALT-017-B-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-017-B	G 2021
+ALT-018-A	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-018-A	G 2019
+ALT-018-A-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-018-A	G 2021
+ALT-018-B	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-018-B	G 2019
+ALT-018-B-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-018-B	G 2021
+ALT-019-A	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-019-A	G 2019
+ALT-019-A-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-019-A	G 2021
+ALT-019-B	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-019-B	G 2019
+ALT-019-B-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-019-B	G 2021
+ALT-020-A	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-020-A	G 2019
+ALT-020-A-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-020-A	G 2021
+ALT-020-B	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-020-B	G 2019
+ALT-020-B-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-020-B	G 2021
+ALT-F-01	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-F-01	G 2019
+ALT-F-01-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-F-01	G 2021
+ALT-F-02	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-F-02	G 2019
+ALT-F-02-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-F-02	G 2021
+ALT-F-03	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-F-03	G 2019
+ALT-F-03-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-F-03	G 2021
+ALT-F-04	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-F-04	G 2019
+ALT-F-04-2021	2021	winter	Altschönau	ok	G	Altschönau	Altschönau 2021		Altschönau 2021	ALT	ALT-F-04	G 2021
+ALT-F-05	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-F-05	G 2019
+ALT-F-06	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-F-06	G 2019
+ALT-F-07	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-F-07	G 2019
+ALT-F-08	2019	winter	Altschönau	ok	G	Altschönau	Altschönau 2019		Altschönau 2019	ALT	ALT-F-08	G 2019
+B1				empty	rm	0	0		 			rm 
+B10				empty	rm	0	0		 			rm 
+B11				empty	rm	0	0		 			rm 
+B12				empty	rm	0	0		 			rm 
+B13				empty	rm	0	0		 			rm 
+B14				empty	rm	0	0		 			rm 
+B15				empty	rm	0	0		 			rm 
+B17				empty	rm	0	0		 			rm 
+B18				empty	rm	0	0		 			rm 
+B19				empty	rm	0	0		 			rm 
+B2				empty	rm	0	0		 			rm 
+B20				empty	rm	0	0		 			rm 
+B21				empty	rm	0	0		 			rm 
+B22				empty	rm	0	0		 			rm 
+B23				empty	rm	0	0		 			rm 
+B24				empty	rm	0	0		 			rm 
+B25				empty	rm	0	0		 			rm 
+B26				empty	rm	0	0		 			rm 
+B27				empty	rm	0	0		 			rm 
+B28				empty	rm	0	0		 			rm 
+B3				empty	rm	0	0		 			rm 
+B4				empty	rm	0	0		 			rm 
+B5				empty	rm	0	0		 			rm 
+B6				empty	rm	0	0		 			rm 
+B7				empty	rm	0	0		 			rm 
+B8				empty	rm	0	0		 			rm 
+B9				empty	rm	0	0		 			rm 
+BU-001-A	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-001-A	WG 2019
+BU-001-A-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-001-A	WG 2021
+BU-001-B	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-001-B	WG 2019
+BU-001-B-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-001-B	WG 2021
+BU-002-A	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-002-A	WG 2019
+BU-002-A-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-002-A	WG 2021
+BU-002-B	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-002-B	WG 2019
+BU-002-B-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-002-B	WG 2021
+BU-003-A	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-003-A	WG 2019
+BU-003-A-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-003-A	WG 2021
+BU-003-B	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-003-B	WG 2019
+BU-003-B-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-003-B	WG 2021
+BU-004-A	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-004-A	WG 2019
+BU-004-A-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-004-A	WG 2021
+BU-004-B	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-004-B	WG 2019
+BU-004-B-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-004-B	WG 2021
+BU-005-A	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-005-A	WG 2019
+BU-005-A-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-005-A	WG 2021
+BU-005-B	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-005-B	WG 2019
+BU-005-B-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-005-B	WG 2021
+BU-006-A	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-006-A	WG 2019
+BU-006-A-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-006-A	WG 2021
+BU-006-B	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-006-B	WG 2019
+BU-006-B-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-006-B	WG 2021
+BU-007-A	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-007-A	WG 2019
+BU-007-A-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-007-A	WG 2021
+BU-007-B	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-007-B	WG 2019
+BU-007-B-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-007-B	WG 2021
+BU-008-A	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-008-A	WG 2019
+BU-008-A-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-008-A	WG 2021
+BU-008-B	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-008-B	WG 2019
+BU-008-B-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-008-B	WG 2021
+BU-009-A	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-009-A	WG 2019
+BU-009-A-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-009-A	WG 2021
+BU-009-B	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-009-B	WG 2019
+BU-009-B-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-009-B	WG 2021
+BU-010-A	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-010-A	WG 2019
+BU-010-A-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-010-A	WG 2021
+BU-010-B	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-010-B	WG 2019
+BU-010-B-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-010-B	WG 2021
+BU-011-A	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-011-A	WG 2019
+BU-011-A-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-011-A	WG 2021
+BU-011-B	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-011-B	WG 2019
+BU-011-B-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-011-B	WG 2021
+BU-012-A	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-012-A	WG 2019
+BU-012-A-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-012-A	WG 2021
+BU-012-B	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-012-B	WG 2019
+BU-012-B-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-012-B	WG 2021
+BU-013-A	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-013-A	WG 2019
+BU-013-A-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-013-A	WG 2021
+BU-013-B	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-013-B	WG 2019
+BU-013-B-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-013-B	WG 2021
+BU-014-A	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-014-A	WG 2019
+BU-014-A-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-014-A	WG 2021
+BU-014-B	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-014-B	WG 2019
+BU-014-B-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-014-B	WG 2021
+BU-015-A	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-015-A	WG 2019
+BU-015-A-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-015-A	WG 2021
+BU-015-B	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-015-B	WG 2019
+BU-015-B-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-015-B	WG 2021
+BU-016-A	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-016-A	WG 2019
+BU-016-A-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-016-A	WG 2021
+BU-016-B	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-016-B	WG 2019
+BU-016-B-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-016-B	WG 2021
+BU-017-A	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-017-A	WG 2019
+BU-017-A-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-017-A	WG 2021
+BU-017-B	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-017-B	WG 2019
+BU-017-B-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-017-B	WG 2021
+BU-018-A	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-018-A	WG 2019
+BU-018-A-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-018-A	WG 2021
+BU-018-B	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-018-B	WG 2019
+BU-018-B-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-018-B	WG 2021
+BU-019-A	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-019-A	WG 2019
+BU-019-A-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-019-A	WG 2021
+BU-019-B	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-019-B	WG 2019
+BU-019-B-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-019-B	WG 2021
+BU-020-A	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-020-A	WG 2019
+BU-020-A-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-020-A	WG 2021
+BU-020-B	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-020-B	WG 2019
+BU-020-B-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-020-B	WG 2021
+BU-FO1	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-F01	WG 2019
+BU-F01-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-F01	WG 2021
+BU-FO2	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-F02	WG 2019
+BU-F02-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-F02	WG 2021
+BU-FO3	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-F03	WG 2019
+BU-F-03-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-F03	WG 2021
+BU-F04	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-F04	WG 2019
+BU-F04-2021	2021	winter	Buchenau	ok	WG	Buchenau	Buchenau 2021		Buchenau 2021	BU	BU-F04	WG 2021
+BU-F05	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-F05	WG 2019
+BU-F06	2019	winter	Buchenau	ok	WG	Buchenau	Buchenau 2019		Buchenau 2019	BU	BU-F06	WG 2019
+BU-U1-A	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U1-A	WG 2018
+BU-U1-B	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U1-B	WG 2018
+BU-U10-A	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U10-A	WG 2018
+BU-U10-B	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U10-B	WG 2018
+BU-U11-A	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U11-A	WG 2018
+BU-U11-B	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U11-B	WG 2018
+BU-U12-A	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U12-A	WG 2018
+BU-U12-B	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U12-B	WG 2018
+BU-U13-A	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U13-A	WG 2018
+BU-U13-B	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U13-B	WG 2018
+BU-U14-A	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U14-A	WG 2018
+BU-U14-B	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U14-B	WG 2018
+BU-U15-A	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U15-A	WG 2018
+BU-U15-B	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U15-B	WG 2018
+BU-U16-A	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U16-A	WG 2018
+BU-U16-B	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U16-B	WG 2018
+BU-U17-A	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U17-A	WG 2018
+BU-U17-B	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U17-B	WG 2018
+BU-U18-A	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U18-A	WG 2018
+BU-U18-B	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U18-B	WG 2018
+BU-U19-A	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U19-A	WG 2018
+BU-U19-B	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U19-B	WG 2018
+BU-U2-A	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U2-A	WG 2018
+BU-U2-B	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U2-B	WG 2018
+BU-U20-A	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U20-A	WG 2018
+BU-U20-B	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U20-B	WG 2018
+BU-U3-A	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U3-A	WG 2018
+BU-U3-B	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U3-B	WG 2018
+BU-U4-A	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U4-A	WG 2018
+BU-U4-B	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U4-B	WG 2018
+BU-U5-A	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U5-A	WG 2018
+BU-U5-B	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U5-B	WG 2018
+BU-U6-A	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U6-A	WG 2018
+BU-U6-B	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U6-B	WG 2018
+BU-U7-A	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U7-A	WG 2018
+BU-U7-B	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U7-B	WG 2018
+BU-U8-A	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U8-A	WG 2018
+BU-U8-B	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U8-B	WG 2018
+BU-U9-A	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U9-A	WG 2018
+BU-U9-B	2018	spring	Buchenau	ok	WG	Buchenau	Buchenau 2018		Buchenau 2018	BU	BU-U9-B	WG 2018
+control1				empty	rm	0	0		 			rm 
+control2				empty	rm	0	0		 			rm 
+control3				empty	rm	0	0		 			rm 
+control4				empty	rm	0	0		 			rm 
+control5				empty	rm	0	0		 			rm 
+control6				empty	rm	0	0		 			rm 
+control7				empty	rm	0	0		 			rm 
+PCR-C-P1				empty	Control	0	0		 			Control 
+exB4				empty	Control	0	0		 			Control 
+PCR-C-P3				empty	Control	0	0		 			Control 
+PCR-C-P2				empty	Control	0	0		 			Control 
+exB2-P2				empty	Control	0	0		 			Control 
+exB3-P2				empty	Control	0	0		 			Control 
+exB2				empty	Control	0	0		 			Control 
+PCR-C-P4				empty	Control	0	0		 			Control 
+exB3				empty	Control	0	0		 			Control 
+exB4-P3				empty	lab	0	0	blanks	 			lab 
+ExB5-backup-P3				empty	lab	0	0	blanks	 			lab 
+exB5-P3				empty	lab	0	0	blanks	 			lab 
+exB6-P4				empty	lab	0	0	blanks	 			lab 
+HO-001-A	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-001-A	FL 2019
+HO-001-A-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-001-A-2021	FL 2021
+HO-001-B	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-001-B	FL 2019
+HO-001-B-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-001-B-2021	FL 2021
+HO-002-A	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-002-A	FL 2019
+HO-002-A-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-002-A-2021	FL 2021
+HO-002-B	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-002-B	FL 2019
+HO-002-B-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-002-B-2021	FL 2021
+HO-003-A	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-003-A	FL 2019
+HO-003-A-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-003-A-2021	FL 2021
+HO-003-B	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-003-B	FL 2019
+HO-003-B-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-003-B-2021	FL 2021
+HO-004-A	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-004-A	FL 2019
+HO-004-A-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-004-A-2021	FL 2021
+HO-004-B	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-004-B	FL 2019
+HO-004-B-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-004-B-2021	FL 2021
+HO-005-A	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-005-A	FL 2019
+HO-005-A-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-005-A-2021	FL 2021
+HO-005-B	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-005-B	FL 2019
+HO-005-B-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-005-B-2021	FL 2021
+HO-006-A	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-006-A	FL 2019
+HO-006-A-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-006-A-2021	FL 2021
+HO-006-B	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-006-B	FL 2019
+HO-006-B-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-006-B-2021	FL 2021
+HO-007-A	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-007-A	FL 2019
+HO-007-A-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-007-A-2021	FL 2021
+HO-007-B	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-007-B	FL 2019
+HO-007-B-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-007-B-2021	FL 2021
+HO-008-A	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-008-A	FL 2019
+HO-008-A-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-008-A-2021	FL 2021
+HO-008-B	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-008-B	FL 2019
+HO-008-B-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-008-B-2021	FL 2021
+HO-009-A	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-009-A	FL 2019
+HO-009-A-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-009-A-2021	FL 2021
+HO-009-B	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-009-B	FL 2019
+HO-009-B-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-009-B-2021	FL 2021
+HO-010-A	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-010-A	FL 2019
+HO-010-A-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-010-A-2021	FL 2021
+HO-010-B	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-010-B	FL 2019
+HO-010-B-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-010-B-2021	FL 2021
+HO-011-A	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-011-A	FL 2019
+HO-011-A-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-011-A-2021	FL 2021
+HO-011-B	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-011-B	FL 2019
+HO-011-B-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-011-B-2021	FL 2021
+HO-012-A	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-012-A	FL 2019
+HO-012-A-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-012-A-2021	FL 2021
+HO-012-B	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-012-B	FL 2019
+HO-012-B-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-012-B-2021	FL 2021
+HO-013-A	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-013-A	FL 2019
+HO-013-A-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-013-A-2021	FL 2021
+HO-013-B	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-013-B	FL 2019
+HO-013-B-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-013-B-2021	FL 2021
+HO-014-A	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-014-A	FL 2019
+HO-014-A-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-014-A-2021	FL 2021
+HO-014-B	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-014-B	FL 2019
+HO-014-B-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-014-B-2021	FL 2021
+HO-015-A	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-015-A	FL 2019
+HO-015-A-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-015-A-2021	FL 2021
+HO-015-B	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-015-B	FL 2019
+HO-015-B-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-015-B-2021	FL 2021
+HO-016-A	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-016-A	FL 2019
+HO-016-A-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-016-A-2021	FL 2021
+HO-016-B	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-016-B	FL 2019
+HO-016-B-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-016-B-2021	FL 2021
+HO-017-A	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-017-A	FL 2019
+HO-017-A-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-017-A-2021	FL 2021
+HO-017-B	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-017-B	FL 2019
+HO-017-B-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-017-B-2021	FL 2021
+HO-018-A	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-018-A	FL 2019
+HO-018-A-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-018-A-2021	FL 2021
+HO-018-B	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-018-B	FL 2019
+HO-018-B-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-018-B-2021	FL 2021
+HO-019-A	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-019-A	FL 2019
+HO-019-A-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-019-A-2021	FL 2021
+HO-019-B	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-019-B	FL 2019
+HO-019-B-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-019-B-2021	FL 2021
+HO-020-A	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-020-A	FL 2019
+HO-020-A-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-020-A-2021	FL 2021
+HO-020-B	2019	winter	Hochburg	ok	FL	FL	FL 2019		Hochburg 2019	HO	HO-020-B	FL 2019
+HO-020-B-2021	2021	winter	Hochburg	ok	FL	FL	FL 2021		Hochburg 2021	HO	HO-020-B-2021	FL 2021
+NE-U1-A	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U1-A	WG 2018
+NE-U1-B	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U1-B	WG 2018
+NE-U10-A	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U10-A	WG 2018
+NE-U10-B	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U10-B	WG 2018
+NE-U11-A	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U11-A	WG 2018
+NE-U11-B	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U11-B	WG 2018
+NE-U12-A	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U12-A	WG 2018
+NE-U12-B	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U12-B	WG 2018
+NE-U13-A	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U13-A	WG 2018
+NE-U13-B	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U13-B	WG 2018
+NE-U14-A	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U14-A	WG 2018
+NE-U14-B	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U14-B	WG 2018
+NE-U15-A	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U15-A	WG 2018
+NE-U15-B	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U15-B	WG 2018
+NE-U16-A	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U16-A	WG 2018
+NE-U16-B	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U16-B	WG 2018
+NE-U17-A	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U17-A	WG 2018
+NE-U17-B	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U17-B	WG 2018
+NE-U18-A	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U18-A	WG 2018
+NE-U18-B	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U18-B	WG 2018
+NE-U19-A	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U19-A	WG 2018
+NE-U19-B	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U19-B	WG 2018
+NE-U2-A	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U2-A	WG 2018
+NE-U2-B	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U2-B	WG 2018
+NE-U20-A	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U20-A	WG 2018
+NE-U20-B	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U20-B	WG 2018
+NE-U3-A	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U3-A	WG 2018
+NE-U3-B	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U3-B	WG 2018
+NE-U4-A	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U4-A	WG 2018
+NE-U4-B	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U4-B	WG 2018
+NE-U5-A	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U5-A	WG 2018
+NE-U5-B	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U5-B	WG 2018
+NE-U6-A	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U6-A	WG 2018
+NE-U6-B	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U6-B	WG 2018
+NE-U7-A	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U7-A	WG 2018
+NE-U7-B	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U7-B	WG 2018
+NE-U8-A	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U8-A	WG 2018
+NE-U8-B	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U8-B	WG 2018
+NE-U9-A	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U9-A	WG 2018
+NE-U9-B	2018	spring	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2018		Neuhüttenwiese 2018	NE	NE-U9-B	WG 2018
+NegCP1				empty	lab	0	0	neg-ctl	 			lab 
+NegCP2				empty	lab	0	0	neg-ctl	 			lab 
+NegCP3				empty	lab	0	0	neg-ctl	 			lab 
+NegCP4				empty	lab	0	0	neg-ctl	 			lab 
+NEU-001-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-001-A	WG 2019
+NEU-001-A-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-001-A	WG 2021
+NEU-001-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-001-B	WG 2019
+NEU-001-B-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-001-B	WG 2021
+NEU-002-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-002-A	WG 2019
+NEU-002-A-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-002-A	WG 2021
+NEU-002-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-002-B	WG 2019
+NEU-002-B-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-002-B	WG 2021
+NEU-003-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-003-A	WG 2019
+NEU-003-A-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-003-A	WG 2021
+NEU-003-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-003-B	WG 2019
+NEU-003-B-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-003-B	WG 2021
+NEU-004-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-004-A	WG 2019
+NEU-004-A-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-004-A	WG 2021
+NEU-004-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-004-B	WG 2019
+NEU-004-B-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-004-B	WG 2021
+NEU-005-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-005-A	WG 2019
+NEU-005-A-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-005-A	WG 2021
+NEU-005-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-005-B	WG 2019
+NEU-005-B-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-005-B	WG 2021
+NEU-006-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-006-A	WG 2019
+NEU-006-A-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-006-A	WG 2021
+NEU-006-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-006-B	WG 2019
+NEU-006-B-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-006-B	WG 2021
+NEU-007-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-007-A	WG 2019
+NEU-007-A-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-007-A	WG 2021
+NEU-007-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-007-B	WG 2019
+NEU-007-B-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-007-B	WG 2021
+NEU-008-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-008-A	WG 2019
+NEU-008-A-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-008-A	WG 2021
+NEU-008-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-008-B	WG 2019
+NEU-008-B-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-008-B	WG 2021
+NEU-009-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-009-A	WG 2019
+NEU-009-A-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-009-A	WG 2021
+NEU-009-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-009-B	WG 2019
+NEU-009-B-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-009-B	WG 2021
+NEU-010-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-010-A	WG 2019
+NEU-010-A-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-010-A	WG 2021
+NEU-010-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-010-B	WG 2019
+NEU-010-B-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-010-B	WG 2021
+NEU-011-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-011-A	WG 2019
+NEU-011-A-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-011-A	WG 2021
+NEU-011-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-011-B	WG 2019
+NEU-011-B-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-011-B	WG 2021
+NEU-012-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-012-A	WG 2019
+NEU-012-A-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-012-A	WG 2021
+NEU-012-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-012-B	WG 2019
+NEU-012-B-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-012-B	WG 2021
+NEU-013-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-013-A	WG 2019
+NEU-013-A-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-013-A	WG 2021
+NEU-013-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-013-B	WG 2019
+NEU-013-B-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-013-B	WG 2021
+NEU-014-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-014-A	WG 2019
+NEU-014-A-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-014-A	WG 2021
+NEU-014-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-014-B	WG 2019
+NEU-014-B-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-014-B	WG 2021
+NEU-015-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-015-A	WG 2019
+NEU-015-A-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-015-A	WG 2021
+NEU-015-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-015-B	WG 2019
+NEU-015-B-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-015-B	WG 2021
+NEU-016-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-016-A	WG 2019
+NEU-016-A-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-016-A	WG 2021
+NEU-016-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-016-B	WG 2019
+NEU-016-B-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-016-B	WG 2021
+NEU-017-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-017-A	WG 2019
+NEU-017-A-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-017-A	WG 2021
+NEU-017-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-017-B	WG 2019
+NEU-017-B-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-017-B	WG 2021
+NEU-018-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-018-A	WG 2019
+NEU-018-A-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-018-A	WG 2021
+NEU-018-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-018-B	WG 2019
+NEU-018-B-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-018-B	WG 2021
+NEU-019-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-019-A	WG 2019
+NEU-019-A-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-019-A	WG 2021
+NEU-019-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-019-B	WG 2019
+NEU-019-B-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-019-B	WG 2021
+NEU-020-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-020-A	WG 2019
+NEU-020-A-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-020-A	WG 2021
+NEU-020-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-020-B	WG 2019
+NEU-020-B-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-020-B	WG 2021
+NEU-FO1	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-F01	WG 2019
+NEU-F-01-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-F01	WG 2021
+NEU-FO2	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-F02	WG 2019
+NEU-F-02-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-F02	WG 2021
+NEU-FO3	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-F03	WG 2019
+NEU-F-03-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-F03	WG 2021
+NEU-F04	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	NEU-F04	WG 2019
+NEU-F-04-2021	2021	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2021		Neuhüttenwiese 2021	NEU	NEU-F04	WG 2021
+R1				empty	rm	0	0		 			rm 
+R10				empty	rm	0	0		 			rm 
+R11				empty	rm	0	0		 			rm 
+R12				empty	rm	0	0		 			rm 
+R13				empty	rm	0	0		 			rm 
+R14				empty	rm	0	0		 			rm 
+R15				empty	rm	0	0		 			rm 
+R16				empty	rm	0	0		 			rm 
+R18				empty	rm	0	0		 			rm 
+R2				empty	rm	0	0		 			rm 
+R20				empty	rm	0	0		 			rm 
+R22				empty	rm	0	0		 			rm 
+R23				empty	rm	0	0		 			rm 
+R24				empty	rm	0	0		 			rm 
+R3				empty	rm	0	0		 			rm 
+R4				empty	rm	0	0		 			rm 
+R5				empty	rm	0	0		 			rm 
+R6				empty	rm	0	0		 			rm 
+R7				empty	rm	0	0		 			rm 
+R8				empty	rm	0	0		 			rm 
+R9				empty	rm	0	0		 			rm 
+RE-001-A	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-001-A	FL 2019
+RE-001-A-2021	2021	winter	Reschbachtal	ok	FL	FL	FL 2021		Reschbachtal 2021	RE	RE-001-A-2021	FL 2021
+RE-001-B	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-001-B	FL 2019
+RE-001-B-2021	2021	winter	Reschbachtal	ok	FL	FL	FL 2021		Reschbachtal 2021	RE	RE-001-B-2021	FL 2021
+RE-002-A	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-002-A	FL 2019
+RE-002-A-2021	2021	winter	Reschbachtal	ok	FL	FL	FL 2021		Reschbachtal 2021	RE	RE-002-A-2021	FL 2021
+RE-002-B	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-002-B	FL 2019
+RE-002-B-2021	2021	winter	Reschbachtal	ok	FL	FL	FL 2021		Reschbachtal 2021	RE	RE-002-B-2021	FL 2021
+RE-003-A	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-003-A	FL 2019
+RE-003-A-2021	2021	winter	Reschbachtal	ok	FL	FL	FL 2021		Reschbachtal 2021	RE	RE-003-A-2021	FL 2021
+RE-003-B	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-003-B	FL 2019
+RE-003-B-2021	2021	winter	Reschbachtal	ok	FL	FL	FL 2021		Reschbachtal 2021	RE	RE-003-B-2021	FL 2021
+RE-004-A	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-004-A	FL 2019
+RE-004-A-2021	2021	winter	Reschbachtal	ok	FL	FL	FL 2021		Reschbachtal 2021	RE	RE-004-A-2021	FL 2021
+RE-004-B	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-004-B	FL 2019
+RE-004-B-2021	2021	winter	Reschbachtal	ok	FL	FL	FL 2021		Reschbachtal 2021	RE	RE-004-B-2021	FL 2021
+RE-005-A	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-005-A	FL 2019
+RE-005-A-2021	2021	winter	Reschbachtal	ok	FL	FL	FL 2021		Reschbachtal 2021	RE	RE-005-A-2021	FL 2021
+RE-005-B	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-005-B	FL 2019
+RE-005-B-2021	2021	winter	Reschbachtal	ok	FL	FL	FL 2021		Reschbachtal 2021	RE	RE-005-B-2021	FL 2021
+RE-006-A	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-006-A	FL 2019
+RE-006-A-2021	2021	winter	Reschbachtal	ok	FL	FL	FL 2021		Reschbachtal 2021	RE	RE-006-A-2021	FL 2021
+RE-006-B	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-006-B	FL 2019
+RE-006-B-2021	2021	winter	Reschbachtal	ok	FL	FL	FL 2021		Reschbachtal 2021	RE	RE-006-B-2021	FL 2021
+RE-007-A	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-007-A	FL 2019
+RE-007-A-2021	2021	winter	Reschbachtal	ok	FL	FL	FL 2021		Reschbachtal 2021	RE	RE-007-A-2021	FL 2021
+RE-007-B	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-007-B	FL 2019
+RE-007-B-2021	2021	winter	Reschbachtal	ok	FL	FL	FL 2021		Reschbachtal 2021	RE	RE-007-B-2021	FL 2021
+RE-008-A	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-008-A	FL 2019
+RE-008-A-2021	2021	winter	Reschbachtal	ok	FL	FL	FL 2021		Reschbachtal 2021	RE	RE-008-A-2021	FL 2021
+RE-008-B	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-008-B	FL 2019
+RE-008-B-2021	2021	winter	Reschbachtal	ok	FL	FL	FL 2021		Reschbachtal 2021	RE	RE-008-B-2021	FL 2021
+RE-009-A	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-009-A	FL 2019
+RE-009-A-2021	2021	winter	Reschbachtal	ok	FL	FL	FL 2021		Reschbachtal 2021	RE	RE-009-A-2021	FL 2021
+RE-009-B	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-009-B	FL 2019
+RE-009-B-2021	2021	winter	Reschbachtal	ok	FL	FL	FL 2021		Reschbachtal 2021	RE	RE-009-B-2021	FL 2021
+RE-010-A	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-010-A	FL 2019
+RE-010-A-2021	2021	winter	Reschbachtal	ok	FL	FL	FL 2021		Reschbachtal 2021	RE	RE-010-A-2021	FL 2021
+RE-010-B	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-010-B	FL 2019
+RE-010-B-2021	2021	winter	Reschbachtal	ok	FL	FL	FL 2021		Reschbachtal 2021	RE	RE-010-B-2021	FL 2021
+RE-011-A	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-011-A	FL 2019
+RE-011-B	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-011-B	FL 2019
+RE-012-A	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-012-A	FL 2019
+RE-012-B	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-012-B	FL 2019
+RE-013-A	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-013-A	FL 2019
+RE-013-B	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-013-B	FL 2019
+RE-014-A	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-014-A	FL 2019
+RE-014-B	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-014-B	FL 2019
+RE-015-A	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-015-A	FL 2019
+RE-015-B	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-015-B	FL 2019
+RE-016-A	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-016-A	FL 2019
+RE-016-B	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-016-B	FL 2019
+RE-017-A	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-017-A	FL 2019
+RE-017-B	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-017-B	FL 2019
+RE-018-A	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-018-A	FL 2019
+RE-018-B	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-018-B	FL 2019
+RE-019-A	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-019-A	FL 2019
+RE-019-B	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-019-B	FL 2019
+RE-020-A	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-020-A	FL 2019
+RE-020-B	2019	winter	Reschbachtal	ok	FL	FL	FL 2019		Reschbachtal 2019	RE	RE-020-B	FL 2019
+RI-001-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-001-A	WG 2019
+RI-001-A-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-001-A	WG 2021
+RI-001-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-001-B	WG 2019
+RI-001-B-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-001-B	WG 2021
+RI-002-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-002-A	WG 2019
+RI-002-A-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-002-A	WG 2021
+RI-002-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-002-B	WG 2019
+RI-002-B-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-002-B	WG 2021
+RI-003-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-003-A	WG 2019
+RI-003-A-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-003-A	WG 2021
+RI-003-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-003-B	WG 2019
+RI-003-B-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-003-B	WG 2021
+RI-004-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-004-A	WG 2019
+RI-004-A-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-004-A	WG 2021
+RI-004-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-004-B	WG 2019
+RI-004-B-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-004-B	WG 2021
+RI-005-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-005-A	WG 2019
+RI-005-A-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-005-A	WG 2021
+RI-005-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-005-B	WG 2019
+RI-005-B-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-005-B	WG 2021
+RI-006-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-006-A	WG 2019
+RI-006-A-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-006-A	WG 2021
+RI-006-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-006-B	WG 2019
+RI-006-B-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-006-B	WG 2021
+RI-007-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-007-A	WG 2019
+RI-007-A-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-007-A	WG 2021
+RI-007-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-007-B	WG 2019
+RI-007-B-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-007-B	WG 2021
+RI-008-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-008-A	WG 2019
+RI-008-A-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-008-A	WG 2021
+RI-008-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-008-B	WG 2019
+RI-008-B-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-008-B	WG 2021
+RI-009-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-009-A	WG 2019
+RI-009-A-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-009-A	WG 2021
+RI-009-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-009-B	WG 2019
+RI-009-B-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-009-B	WG 2021
+RI-010-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-010-A	WG 2019
+RI-010-A-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-010-A	WG 2021
+RI-010-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-010-B	WG 2019
+RI-010-B-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-010-B	WG 2021
+RI-011-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-011-A	WG 2019
+RI-011-A-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-011-A	WG 2021
+RI-011-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-011-B	WG 2019
+RI-011-B-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-011-B	WG 2021
+RI-012-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-012-A	WG 2019
+RI-012-A-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-012-A	WG 2021
+RI-012-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-012-B	WG 2019
+RI-012-B-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-012-B	WG 2021
+RI-013-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-013-A	WG 2019
+RI-013-A-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-013-A	WG 2021
+RI-013-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-013-B	WG 2019
+RI-013-B-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-013-B	WG 2021
+RI-014-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-014-A	WG 2019
+RI-014-A-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-014-A	WG 2021
+RI-014-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-014-B	WG 2019
+RI-014-B-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-014-B	WG 2021
+RI-015-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-015-A	WG 2019
+RI-015-A-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-015-A	WG 2021
+RI-015-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-015-B	WG 2019
+RI-015-B-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-015-B	WG 2021
+RI-016-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-016-A	WG 2019
+RI-016-A-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-016-A	WG 2021
+RI-016-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-016-B	WG 2019
+RI-016-B-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-016-B	WG 2021
+RI-017-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-017-A	WG 2019
+RI-017-A-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-017-A	WG 2021
+RI-017-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-017-B	WG 2019
+RI-017-B-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-017-B	WG 2021
+RI-018-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-018-A	WG 2019
+RI-018-A-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-018-A	WG 2021
+RI-018-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-018-B	WG 2019
+RI-018-B-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-018-B	WG 2021
+RI-019-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-019-A	WG 2019
+RI-019-A-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-019-A	WG 2021
+RI-019-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-019-B	WG 2019
+RI-019-B-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-019-B	WG 2021
+RI-020-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-020-A	WG 2019
+RI-020-A-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-020-A	WG 2021
+RI-020-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-020-B	WG 2019
+RI-020-B-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-020-B	WG 2021
+RI-F-01	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-F-01	WG 2019
+RI-F-02	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-F-02	WG 2019
+RI-F-03	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-F-03	WG 2019
+RI-F-04	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-F-04	WG 2019
+RI-F-05	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	RI	RI-F-05	WG 2019
+RI-F-01-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-F01	WG 2021
+RI-F-02-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-F02	WG 2021
+RI-F-03-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-F03	WG 2021
+RI-F-04-2021	2021	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2021		Riedelhäng 2021	RI	RI-F04	WG 2021
+RI-U1-A	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U1-A	WG 2018
+RI-U1-B	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U1-B	WG 2018
+RI-U10-A	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U10-A	WG 2018
+RI-U10-B	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U10-B	WG 2018
+RI-U11-A	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U11-A	WG 2018
+RI-U11-B	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U11-B	WG 2018
+RI-U12-A	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U12-A	WG 2018
+RI-U12-B	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U12-B	WG 2018
+RI-U13-A	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U13-A	WG 2018
+RI-U13-B	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U13-B	WG 2018
+RI-U14-A	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U14-A	WG 2018
+RI-U14-B	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U14-B	WG 2018
+RI-U15-A	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U15-A	WG 2018
+RI-U15-B	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U15-B	WG 2018
+RI-U16-A	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U16-A	WG 2018
+RI-U16-B	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U16-B	WG 2018
+RI-U17-A	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U17-A	WG 2018
+RI-U17-B	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U17-B	WG 2018
+RI-U18-A	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U18-A	WG 2018
+RI-U18-B	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U18-B	WG 2018
+RI-U19-A	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U19-A	WG 2018
+RI-U19-B	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U19-B	WG 2018
+RI-U2-A	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U2-A	WG 2018
+RI-U2-B	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U2-B	WG 2018
+RI-U20-A	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U20-A	WG 2018
+RI-U20-B	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U20-B	WG 2018
+RI-U3-A	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U3-A	WG 2018
+RI-U3-B	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U3-B	WG 2018
+RI-U4-A	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U4-A	WG 2018
+RI-U4-B	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U4-B	WG 2018
+RI-U5-A	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U5-A	WG 2018
+RI-U5-B	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U5-B	WG 2018
+RI-U6-A	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U6-A	WG 2018
+RI-U6-B	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U6-B	WG 2018
+RI-U7-A	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U7-A	WG 2018
+RI-U7-B	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U7-B	WG 2018
+RI-U8-A	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U8-A	WG 2018
+RI-U8-B	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U8-B	WG 2018
+RI-U9-A	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U9-A	WG 2018
+SCH	2018	spring	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2018		Riedelhäng 2018	RI	RI-U9-B	WG 2018
+S1				empty	rm	0	0		 			rm 
+S2				empty	rm	0	0		 			rm 
+S3				empty	rm	0	0		 			rm 
+S4				empty	rm	0	0		 			rm 
+S5				empty	rm	0	0		 			rm 
+S6				empty	rm	0	0		 			rm 
+SC-U1-A	2018	spring	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SC	SC-U1-A	G 2018
+SC-U10-A	2018	spring	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SC	SC-U10-A	G 2018
+SC-U11-A	2018	spring	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SC	SC-U11-A	G 2018
+SC-U12-A	2018	spring	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SC	SC-U12-A	G 2018
+SC-U13-A	2018	spring	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SC	SC-U13-A	G 2018
+SC-U14-A	2018	spring	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SC	SC-U14-A	G 2018
+SC-U15-A	2018	spring	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SC	SC-U15-A	G 2018
+SC-U16-A	2018	spring	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SC	SC-U16-A	G 2018
+SC-U17-A	2018	spring	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SC	SC-U17-A	G 2018
+SC-U18-A	2018	spring	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SC	SC-U18-A	G 2018
+SC-U19-A	2018	spring	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SC	SC-U19-A	G 2018
+SC-U2-A	2018	spring	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SC	SC-U2-A	G 2018
+SC-U20-A	2018	spring	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SC	SC-U20-A	G 2018
+SC-U3-A	2018	spring	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SC	SC-U3-A	G 2018
+SC-U4-A	2018	spring	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SC	SC-U4-A	G 2018
+SC-U5-A	2018	spring	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SC	SC-U5-A	G 2018
+SC-U6-A	2018	spring	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SC	SC-U6-A	G 2018
+SC-U7-A	2018	spring	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SC	SC-U7-A	G 2018
+SC-U8-A	2018	spring	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SC	SC-U8-A	G 2018
+SC-U9-A	2018	spring	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SC	SC-U9-A	G 2018
+SCH-001-A	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-001-A	G 2019
+SCH-001-A-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-001-A-2021	G 2021
+SCH-001-B	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-001-B	G 2019
+SCH-001-B-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-001-B-2021	G 2021
+SCH-002-A	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-002-A	G 2019
+SCH-002-A-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-002-A-2021	G 2021
+SCH-002-B	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-002-B	G 2019
+SCH-002-B-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-002-B-2021	G 2021
+SCH-003-A	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-003-A	G 2019
+SCH-003-A-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-003-A-2021	G 2021
+SCH-003-B	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-003-B	G 2019
+SCH-003-B-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-003-B-2021	G 2021
+SCH-004-A	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-004-A	G 2019
+SCH-004-A-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-004-A-2021	G 2021
+SCH-004-B	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-004-B	G 2019
+SCH-004-B-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-004-B-2021	G 2021
+SCH-005-A	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-005-A	G 2019
+SCH-005-A-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-005-A-2021	G 2021
+SCH-005-B	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-005-B	G 2019
+SCH-005-B-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-005-B-2021	G 2021
+SCH-006-A	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-006-A	G 2019
+SCH-006-A-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-006-A-2021	G 2021
+SCH-006-B	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-006-B	G 2019
+SCH-006-B-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-006-B-2021	G 2021
+SCH-007-A	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-007-A	G 2019
+SCH-007-A-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-007-A-2021	G 2021
+SCH-007-B	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-007-B	G 2019
+SCH-007-B-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-007-B-2021	G 2021
+SCH-008-A	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-008-A	G 2019
+SCH-008-A-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-008-A-2021	G 2021
+SCH-008-B	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-008-B	G 2019
+SCH-008-B-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-008-B-2021	G 2021
+SCH-009-A	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-009-A	G 2019
+SCH-009-A-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-009-A-2021	G 2021
+SCH-009-B	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-009-B	G 2019
+SCH-009-B-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-009-B-2021	G 2021
+SCH-010-A	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-010-A	G 2019
+SCH-010-A-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-010-A-2021	G 2021
+SCH-010-B	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-010-B	G 2019
+SCH-010-B-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-010-B-2021	G 2021
+SCH-011-A	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-011-A	G 2019
+SCH-011-A-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-011-A-2021	G 2021
+SCH-011-B	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-011-B	G 2019
+SCH-011-B-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-011-B-2021	G 2021
+SCH-012-A	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-012-A	G 2019
+SCH-012-A-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-012-A-2021	G 2021
+SCH-012-B	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-012-B	G 2019
+SCH-012-B-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-012-B-2021	G 2021
+SCH-013-A	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-013-A	G 2019
+SCH-013-A-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-013-A-2021	G 2021
+SCH-013-B	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-013-B	G 2019
+SCH-013-B-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-013-B-2021	G 2021
+SCH-014-A	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-014-A	G 2019
+SCH-014-A-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-014-A-2021	G 2021
+SCH-014-B	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-014-B	G 2019
+SCH-014-B-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-014-B-2021	G 2021
+SCH-015-A	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-015-A	G 2019
+SCH-015-A-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-015-A-2021	G 2021
+SCH-015-B	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-015-B	G 2019
+SCH-015-B-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-015-B-2021	G 2021
+SCH-016-A	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-016-A	G 2019
+SCH-016-A-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-016-A-2021	G 2021
+SCH-016-B	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-016-B	G 2019
+SCH-016-B-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-016-B-2021	G 2021
+SCH-017-A	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-017-A	G 2019
+SCH-017-A-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-017-A-2021	G 2021
+SCH-017-B	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-017-B	G 2019
+SCH-017-B-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-017-B-2021	G 2021
+SCH-018-A	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-018-A	G 2019
+SCH-018-A-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-018-A-2021	G 2021
+SCH-018-B	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-018-B	G 2019
+SCH-018-B-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-018-B-2021	G 2021
+SCH-019-A	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-019-A	G 2019
+SCH-019-A-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-019-A-2021	G 2021
+SCH-019-B	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-019-B	G 2019
+SCH-019-B-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-019-B-2021	G 2021
+SCH-020-A	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-020-A	G 2019
+SCH-020-A-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-020-A-2021	G 2021
+SCH-020-B	2019	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2019		Scheuereck 2019	SCH	SCH-020-B	G 2019
+SCH-020-B-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-020-B-2021	G 2021
+SCH-F-01-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-F-01-2021	G 2021
+SCH-F-02-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-F-02-2021	G 2021
+SCH-F-03	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-F-03-2021	G 2021
+SCH-F-04-2021	2021	winter	Scheuereck	ok	G	Scheuereck	Scheuereck 2021		Scheuereck 2021	SCH	SCH-F-04-2021	G 2021
+SCH2-U1-A	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U1-A	G 2018
+SCH2-U1-B	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U1-B	G 2018
+SCH2-U10-A	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U10-A	G 2018
+SCH2-U10-B	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U10-B	G 2018
+SCH2-U11-A	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U11-A	G 2018
+SCH2-U11-B	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U11-B	G 2018
+SCH2-U12-A	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U12-A	G 2018
+SCH2-U12-B	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U12-B	G 2018
+SCH2-U13-A	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U13-A	G 2018
+SCH2-U13-B	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U13-B	G 2018
+SCH2-U14-A	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U14-A	G 2018
+SCH2-U14-B	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U14-B	G 2018
+SCH2-U15-A	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U15-A	G 2018
+SCH2-U15-B	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U15-B	G 2018
+SCH2-U16-A	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U16-A	G 2018
+SCH2-U16-B	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U16-B	G 2018
+SCH2-U17-A	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U17-A	G 2018
+SCH2-U17-B	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U17-B	G 2018
+SCH2-U18-A	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U18-A	G 2018
+SCH2-U18-B	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U18-B	G 2018
+SCH2-U19-A	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U19-A	G 2018
+SCH2-U19-B	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U19-B	G 2018
+SCH2-U2-A	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U2-A	G 2018
+SCH2-U2-B	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U2-B	G 2018
+SCH2-U20-A	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U20-A	G 2018
+SCH2-U20-B	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U20-B	G 2018
+SCH2-U3-A	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U3-A	G 2018
+SCH2-U3-B	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U3-B	G 2018
+SCH2-U4-A	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U4-A	G 2018
+SCH2-U4-B	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U4-B	G 2018
+SCH2-U5-A	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U5-A	G 2018
+SCH2-U5-B	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U5-B	G 2018
+SCH2-U6-A	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U6-A	G 2018
+SCH2-U6-B	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U6-B	G 2018
+SCH2-U7-A	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U7-A	G 2018
+SCH2-U7-B	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U7-B	G 2018
+SCH2-U8-A	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U8-A	G 2018
+SCH2-U8-B	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U8-B	G 2018
+SCH2-U9-A	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U9-A	G 2018
+SCH2-U9-B	2018	summer	Scheuereck	ok	G	Scheuereck	Scheuereck 2018		Scheuereck 2018	SCH 2	SCH2-U9-B	G 2018
+VAH-001-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-001-A	WG 2019
+VAH-001-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-001-B	WG 2019
+VAH-002-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-002-A	WG 2019
+VAH-002-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-002-B	WG 2019
+VAH-003-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-003-A	WG 2019
+VAH-003-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-003-B	WG 2019
+VAH-004-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-004-A	WG 2019
+VAH-004-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-004-B	WG 2019
+VAH-005-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-005-A	WG 2019
+VAH-005-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-005-B	WG 2019
+VAH-006-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-006-A	WG 2019
+VAH-006-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-006-B	WG 2019
+VAH-007-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-007-A	WG 2019
+VAH-007-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-007-B	WG 2019
+VAH-008-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-008-A	WG 2019
+VAH-008-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-008-B	WG 2019
+VAH-009-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-009-A	WG 2019
+VAH-009-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-009-B	WG 2019
+VAH-010-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-010-A	WG 2019
+VAH-010-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-010-B	WG 2019
+VAH-011-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-011-A	WG 2019
+VAH-011-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-011-B	WG 2019
+VAH-012-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-012-A	WG 2019
+VAH-012-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-012-B	WG 2019
+VAH-013-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-013-A	WG 2019
+VAH-013-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-013-B	WG 2019
+VAH-014-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-014-A	WG 2019
+VAH-014-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-014-B	WG 2019
+VAH-015-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-015-A	WG 2019
+VAH-015-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-015-B	WG 2019
+VAH-016-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-016-A	WG 2019
+VAH-016-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-016-B	WG 2019
+VAH-017-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-017-A	WG 2019
+VAH-017-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-017-B	WG 2019
+VAH-018-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-018-A	WG 2019
+VAH-018-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-018-B	WG 2019
+VAH-019-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-019-A	WG 2019
+VAH-019-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-019-B	WG 2019
+VAH-020-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-020-A	WG 2019
+VAH-020-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-020-B	WG 2019
+VAH-021-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-021-A	WG 2019
+VAH-021-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-021-B	WG 2019
+VAH-022-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-022-A	WG 2019
+VAH-022-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-022-B	WG 2019
+VAH-023-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-023-A	WG 2019
+VAH-023-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-023-B	WG 2019
+VAH-024-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-024-A	WG 2019
+VAH-024-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-024-B	WG 2019
+VAH-025-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-025-A	WG 2019
+VAH-025-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-025-B	WG 2019
+VAH-026-A	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-026-A	WG 2019
+VAH-026-B	2019	winter	Ahornschachten	ok	WG	Ahornschachten	Ahornschachten 2019		Ahornschachten 2019	VAH	VAH-026-B	WG 2019
+VNEU-001-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-001-A	WG 2019
+VNEU-001-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-001-B	WG 2019
+VNEU-002-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-002-A	WG 2019
+VNEU-002-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-002-B	WG 2019
+VNEU-003-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-003-A	WG 2019
+VNEU-003-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-003-B	WG 2019
+VNEU-004-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-004-A	WG 2019
+VNEU-004-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-004-B	WG 2019
+VNEU-005-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-005-A	WG 2019
+VNEU-005-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-005-B	WG 2019
+VNEU-006-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-006-A	WG 2019
+VNEU-006-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-006-B	WG 2019
+VNEU-007-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-007-A	WG 2019
+VNEU-007-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-007-B	WG 2019
+VNEU-008-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-008-A	WG 2019
+VNEU-008-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-008-B	WG 2019
+VNEU-009-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-009-A	WG 2019
+VNEU-009-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-009-B	WG 2019
+VNEU-010-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-010-A	WG 2019
+VNEU-010-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-010-B	WG 2019
+VNEU-011-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-011-A	WG 2019
+VNEU-011-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-011-B	WG 2019
+VNEU-012-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-012-A	WG 2019
+VNEU-012-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-012-B	WG 2019
+VNEU-013-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-013-A	WG 2019
+VNEU-013-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-013-B	WG 2019
+VNEU-014-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-014-A	WG 2019
+VNEU-014-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-014-B	WG 2019
+VNEU-015-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-015-A	WG 2019
+VNEU-015-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-015-B	WG 2019
+VNEU-016-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-016-A	WG 2019
+VNEU-016-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-016-B	WG 2019
+VNEU-017-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-017-A	WG 2019
+VNEU-017-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-017-B	WG 2019
+VNEU-018-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-018-A	WG 2019
+VNEU-018-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-018-B	WG 2019
+VNEU-019-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-019-A	WG 2019
+VNEU-019-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-019-B	WG 2019
+VNEU-020-A	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-020-A	WG 2019
+VNEU-020-B	2019	winter	Neuhüttenwiese	ok	WG	Neuhüttenwiese	Neuhüttenwiese 2019		Neuhüttenwiese 2019	NEU	VNEU-020-B	WG 2019
+VRI-001-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-001-A	WG 2019
+VRI-001-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-001-B	WG 2019
+VRI-002-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-002-A	WG 2019
+VRI-002-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-002-B	WG 2019
+VRI-003-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-003-A	WG 2019
+VRI-003-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-003-B	WG 2019
+VRI-004-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-004-A	WG 2019
+VRI-004-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-004-B	WG 2019
+VRI-005-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-005-A	WG 2019
+VRI-005-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-005-B	WG 2019
+VRI-006-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-006-A	WG 2019
+VRI-006-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-006-B	WG 2019
+VRI-007-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-007-A	WG 2019
+VRI-007-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-007-B	WG 2019
+VRI-008-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-008-A	WG 2019
+VRI-008-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-008-B	WG 2019
+VRI-009-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-009-A	WG 2019
+VRI-009-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-009-B	WG 2019
+VRI-010-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-010-A	WG 2019
+VRI-010-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-010-B	WG 2019
+VRI-011-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-011-A	WG 2019
+VRI-011-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-011-B	WG 2019
+VRI-012-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-012-A	WG 2019
+VRI-012-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-012-B	WG 2019
+VRI-013-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-013-A	WG 2019
+VRI-013-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-013-B	WG 2019
+VRI-014-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-014-A	WG 2019
+VRI-014-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-014-B	WG 2019
+VRI-015-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-015-A	WG 2019
+VRI-015-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-015-B	WG 2019
+VRI-016-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-016-A	WG 2019
+VRI-016-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-016-B	WG 2019
+VRI-017-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-017-A	WG 2019
+VRI-017-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-017-B	WG 2019
+VRI-018-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-018-A	WG 2019
+VRI-018-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-018-B	WG 2019
+VRI-019-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-019-A	WG 2019
+VRI-019-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-019-B	WG 2019
+VRI-020-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-020-A	WG 2019
+VRI-020-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-020-B	WG 2019
+VRI-021-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-021-A	WG 2019
+VRI-021-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-021-B	WG 2019
+VRI-022-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-022-A	WG 2019
+VRI-022-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-022-B	WG 2019
+VRI-023-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-023-A	WG 2019
+VRI-023-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-023-B	WG 2019
+VRI-024-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-024-A	WG 2019
+VRI-024-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-024-B	WG 2019
+VRI-025-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-025-A	WG 2019
+VRI-025-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-025-B	WG 2019
+VRI-026-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-026-A	WG 2019
+VRI-026-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-026-B	WG 2019
+VRI-027-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-027-A	WG 2019
+VRI-027-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-027-B	WG 2019
+VRI-028-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-028-A	WG 2019
+VRI-028-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-028-B	WG 2019
+VRI-029-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-029-A	WG 2019
+VRI-029-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-029-B	WG 2019
+VRI-030-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-030-A	WG 2019
+VRI-030-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-030-B	WG 2019
+VRI-031-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-031-A	WG 2019
+VRI-031-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-031-B	WG 2019
+VRI-032-A	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-032-A	WG 2019
+VRI-032-B	2019	winter	Riedelhäng	ok	WG	Riedelhäng	Riedelhäng 2019		Riedelhäng 2019	VRI	VRI-032-B	WG 2019
+zymo-ctrl				empty	rm	0	0		 			rm 
+FLD0098				empty	rm	0	0		 			rm 
+FLD0099				empty	rm	0	0		 			rm 
+FLD0100				empty	rm	0	0		 			rm 
+FLD0101				empty	rm	0	0		 			rm 
+FLD0103				empty	rm	0	0		 			rm 
+FLD0104				empty	rm	0	0		 			rm 
+FLD0105				empty	rm	0	0		 			rm 
+FLD0106				empty	rm	0	0		 			rm 
+FLD0107				empty	rm	0	0		 			rm 
+FLD0108				empty	rm	0	0		 			rm 
+FLD0109				empty	rm	0	0		 			rm 
+FLD0110				empty	rm	0	0		 			rm 
+FLD0111				empty	rm	0	0		 			rm 
+FLD0112				empty	rm	0	0		 			rm 
+FLD0192				empty	rm	0	0		 			rm 
+FLD0114				empty	rm	0	0		 			rm 
+FLD0115				empty	rm	0	0		 			rm 
+FLD0116				empty	rm	0	0		 			rm 
+FLD0117				empty	rm	0	0		 			rm 
+FLD0118				empty	rm	0	0		 			rm 
+FLD0119				empty	rm	0	0		 			rm 
+FLD0120				empty	rm	0	0		 			rm 
+FLD0121				empty	rm	0	0		 			rm 
+FLD0122				empty	rm	0	0		 			rm 
+FLD0124				empty	rm	0	0		 			rm 
+FLD0125				empty	rm	0	0		 			rm 
+FLD0126				empty	rm	0	0		 			rm 
+FLD0127				empty	rm	0	0		 			rm 
+FLD0128				empty	rm	0	0		 			rm 
+FLD0129				empty	rm	0	0		 			rm 
+FLD0130				empty	rm	0	0		 			rm 
+FLD0131				empty	rm	0	0		 			rm 
+FLD0132				empty	rm	0	0		 			rm 
+FLD0133				empty	rm	0	0		 			rm 
+FLD0134				empty	rm	0	0		 			rm 
+FLD0135				empty	rm	0	0		 			rm 
+FLD0136				empty	rm	0	0		 			rm 
+FLD0137				empty	rm	0	0		 			rm 
+FLD0138				empty	rm	0	0		 			rm 
+FLD0139				empty	rm	0	0		 			rm 
+FLD0140				empty	rm	0	0		 			rm 
+FLD0141				empty	rm	0	0		 			rm 
+FLD0142				empty	rm	0	0		 			rm 
+FLD0143				empty	rm	0	0		 			rm 
+FLD0144				empty	rm	0	0		 			rm 
+FLD0145				empty	rm	0	0		 			rm 
+FLD0146				empty	rm	0	0		 			rm 
+FLD0147				empty	rm	0	0		 			rm 
+FLD0148				empty	rm	0	0		 			rm 
+FLD0149				empty	rm	0	0		 			rm 
+FLD0150				empty	rm	0	0		 			rm 
+FLD0151				empty	rm	0	0		 			rm 
+FLD0152				empty	rm	0	0		 			rm 
+FLD0153				empty	rm	0	0		 			rm 
+FLD0154				empty	rm	0	0		 			rm 
+FLD0155				empty	rm	0	0		 			rm 
+FLD0156				empty	rm	0	0		 			rm 
+FLD0157				empty	rm	0	0		 			rm 
+FLD0158				empty	rm	0	0		 			rm 
+FLD0159				empty	rm	0	0		 			rm 
+FLD0160				empty	rm	0	0		 			rm 
+FLD0161				empty	rm	0	0		 			rm 
+FLD0162				empty	rm	0	0		 			rm 
+FLD0163				empty	rm	0	0		 			rm 
+FLD0164				empty	rm	0	0		 			rm 
+FLD0165				empty	rm	0	0		 			rm 
+FLD0166				empty	rm	0	0		 			rm 
+FLD0167				empty	rm	0	0		 			rm 
+FLD0168				empty	rm	0	0		 			rm 
+FLD0169				empty	rm	0	0		 			rm 
+FLD0170				empty	rm	0	0		 			rm 
+FLD0171				empty	rm	0	0		 			rm 
+FLD0172				empty	rm	0	0		 			rm 
+FLD0173				empty	rm	0	0		 			rm 
+FLD0174				empty	rm	0	0		 			rm 
+FLD0175				empty	rm	0	0		 			rm 
+FLD0176				empty	rm	0	0		 			rm 
+FLD0177				empty	rm	0	0		 			rm 
+FLD0178				empty	rm	0	0		 			rm 
+FLD0179				empty	rm	0	0		 			rm 
+FLD0180				empty	rm	0	0		 			rm 
+FLD0181				empty	rm	0	0		 			rm 
+FLD0182				empty	rm	0	0		 			rm 
+FLD0183				empty	rm	0	0		 			rm 
+FLD0184				empty	rm	0	0		 			rm 
+FLD0185				empty	rm	0	0		 			rm 
+FLD0289				empty	rm	0	0		 			rm 
+FLD0290				empty	rm	0	0		 			rm 
+FLD0291				empty	rm	0	0		 			rm 
+FLD0292				empty	rm	0	0		 			rm 
+FLD0293				empty	rm	0	0		 			rm 
+FLD0294				empty	rm	0	0		 			rm 
+FLD0295				empty	rm	0	0		 			rm 
+FLD0296				empty	rm	0	0		 			rm 
+FLD0297				empty	rm	0	0		 			rm 
+FLD0298				empty	rm	0	0		 			rm 
+FLD0299				empty	rm	0	0		 			rm 
+FLD0300				empty	rm	0	0		 			rm 
+FLD0301				empty	rm	0	0		 			rm 
+FLD0302				empty	rm	0	0		 			rm 
+FLD0303				empty	rm	0	0		 			rm 
+FLD0304				empty	rm	0	0		 			rm 
+FLD0305				empty	rm	0	0		 			rm 
+FLD0306				empty	rm	0	0		 			rm 
+FLD0307				empty	rm	0	0		 			rm 
+FLD0308				empty	rm	0	0		 			rm 
+FLD0309				empty	rm	0	0		 			rm 
+FLD0310				empty	rm	0	0		 			rm 
+FLD0311				empty	rm	0	0		 			rm 
+FLD0312				empty	rm	0	0		 			rm 
+FLD0313				empty	rm	0	0		 			rm 
+FLD0314				empty	rm	0	0		 			rm 
+FLD0315				empty	rm	0	0		 			rm 
+FLD0316				empty	rm	0	0		 			rm 
+FLD0317				empty	rm	0	0		 			rm 
+FLD0318				empty	rm	0	0		 			rm 
+FLD0319				empty	rm	0	0		 			rm 
+FLD0320				empty	rm	0	0		 			rm 
+FLD0321				empty	rm	0	0		 			rm 
+FLD0322				empty	rm	0	0		 			rm 
+FLD0323				empty	rm	0	0		 			rm 
+FLD0324				empty	rm	0	0		 			rm 
+FLD0325				empty	rm	0	0		 			rm 
+FLD0326				empty	rm	0	0		 			rm 
+FLD0327				empty	rm	0	0		 			rm 
+FLD0328				empty	rm	0	0		 			rm 
+FLD0329				empty	rm	0	0		 			rm 
+FLD0330				empty	rm	0	0		 			rm 
+FLD0331				empty	rm	0	0		 			rm 
+FLD0332				empty	rm	0	0		 			rm 
+FLD0333				empty	rm	0	0		 			rm 
+FLD0334				empty	rm	0	0		 			rm 
+FLD0335				empty	rm	0	0		 			rm 
+FLD0336				empty	rm	0	0		 			rm 
+FLD0337				empty	rm	0	0		 			rm 
+FLD0338				empty	rm	0	0		 			rm 
+FLD0339				empty	rm	0	0		 			rm 
+FLD0340				empty	rm	0	0		 			rm 
+FLD0341				empty	rm	0	0		 			rm 
+FLD0342				empty	rm	0	0		 			rm 
+FLD0343				empty	rm	0	0		 			rm 
+FLD0344				empty	rm	0	0		 			rm 
+FLD0345				empty	rm	0	0		 			rm 
+FLD0346				empty	rm	0	0		 			rm 
+FLD0347				empty	rm	0	0		 			rm 
+FLD0348				empty	rm	0	0		 			rm 
+FLD0349				empty	rm	0	0		 			rm 
+FLD0350				empty	rm	0	0		 			rm 
+FLD0351				empty	rm	0	0		 			rm 
+FLD0352				empty	rm	0	0		 			rm 
+FLD0353				empty	rm	0	0		 			rm 
+FLD0354				empty	rm	0	0		 			rm 
+FLD0355				empty	rm	0	0		 			rm 
+FLD0356				empty	rm	0	0		 			rm 
+FLD0357				empty	rm	0	0		 			rm 
+FLD0358				empty	rm	0	0		 			rm 
+FLD0359				empty	rm	0	0		 			rm 
+FLD0360				empty	rm	0	0		 			rm 
+FLD0361				empty	rm	0	0		 			rm 
+FLD0362				empty	rm	0	0		 			rm 
+FLD0363				empty	rm	0	0		 			rm 
+FLD0364				empty	rm	0	0		 			rm 
+FLD0365				empty	rm	0	0		 			rm 
+FLD0366				empty	rm	0	0		 			rm 
+FLD0367				empty	rm	0	0		 			rm 
+FLD0368				empty	rm	0	0		 			rm 
+FLD0369				empty	rm	0	0		 			rm 
+FLD0370				empty	rm	0	0		 			rm 
+FLD0371				empty	rm	0	0		 			rm 
+FLD0372				empty	rm	0	0		 			rm 
+FLD0373				empty	rm	0	0		 			rm 
+FLD0374				empty	rm	0	0		 			rm 
+FLD0375				empty	rm	0	0		 			rm 
+FLD0376				empty	rm	0	0		 			rm 
+FLD0377				empty	rm	0	0		 			rm 
+FLD0378				empty	rm	0	0		 			rm 
+FLD0379				empty	rm	0	0		 			rm 
+FLD0380				empty	rm	0	0		 			rm 
+FLD0381				empty	rm	0	0		 			rm 
+FLD0273				empty	rm	0	0		 			rm 
+FLD0274				empty	rm	0	0		 			rm 
+FLD0276				empty	rm	0	0		 			rm 
+FLD0278				empty	rm	0	0		 			rm 
+FLD0265				empty	rm	0	0		 			rm 
+FLD0281				empty	rm	0	0		 			rm 
+FLD0282				empty	rm	0	0		 			rm 
+FLD0190				empty	rm	0	0		 			rm 
+FLD0191				empty	rm	0	0		 			rm 
+FLD0382				empty	rm	0	0		 			rm 
+FLD0383				empty	rm	0	0		 			rm 
+FLD0283				empty	rm	0	0		 			rm 
+FLD0266				empty	rm	0	0		 			rm 
+FLD0284				empty	rm	0	0		 			rm 
+FLD0285				empty	rm	0	0		 			rm 
+FLD0046				empty	rm	0	0		 			rm 
+FLD0047				empty	rm	0	0		 			rm 
+FLD0048				empty	rm	0	0		 			rm 
+FLD0049				empty	rm	0	0		 			rm 
+FLD0050				empty	rm	0	0		 			rm 
+FLD0051				empty	rm	0	0		 			rm 
+FLD0052				empty	rm	0	0		 			rm 
+FLD0053				empty	rm	0	0		 			rm 
+FLD0054				empty	rm	0	0		 			rm 
+FLD0055				empty	rm	0	0		 			rm 
+FLD0056				empty	rm	0	0		 			rm 
+FLD0057				empty	rm	0	0		 			rm 
+FLD0058				empty	rm	0	0		 			rm 
+FLD0059				empty	rm	0	0		 			rm 
+FLD0060				empty	rm	0	0		 			rm 
+FLD0061				empty	rm	0	0		 			rm 
+FLD0062				empty	rm	0	0		 			rm 
+FLD0063				empty	rm	0	0		 			rm 
+FLD0064				empty	rm	0	0		 			rm 
+FLD0065				empty	rm	0	0		 			rm 
+FLD0066				empty	rm	0	0		 			rm 
+FLD0067				empty	rm	0	0		 			rm 
+FLD0068				empty	rm	0	0		 			rm 
+FLD0069				empty	rm	0	0		 			rm 
+FLD0070				empty	rm	0	0		 			rm 
+FLD0071				empty	rm	0	0		 			rm 
+FLD0072				empty	rm	0	0		 			rm 
+FLD0073				empty	rm	0	0		 			rm 
+FLD0074				empty	rm	0	0		 			rm 
+FLD0075				empty	rm	0	0		 			rm 
+FLD0076				empty	rm	0	0		 			rm 
+FLD0077				empty	rm	0	0		 			rm 
+FLD0078				empty	rm	0	0		 			rm 
+FLD0079				empty	rm	0	0		 			rm 
+FLD0080				empty	rm	0	0		 			rm 
+FLD0081				empty	rm	0	0		 			rm 
+FLD0082				empty	rm	0	0		 			rm 
+FLD0083				empty	rm	0	0		 			rm 
+FLD0084				empty	rm	0	0		 			rm 
+FLD0085				empty	rm	0	0		 			rm 
+FLD0086				empty	rm	0	0		 			rm 
+FLD0087				empty	rm	0	0		 			rm 
+FLD0088				empty	rm	0	0		 			rm 
+FLD0089				empty	rm	0	0		 			rm 
+FLD0090				empty	rm	0	0		 			rm 
+FLD0091				empty	rm	0	0		 			rm 
+FLD0092				empty	rm	0	0		 			rm 
+FLD0093				empty	rm	0	0		 			rm 
+FLD0094				empty	rm	0	0		 			rm 
+FLD0095				empty	rm	0	0		 			rm 
+FLD0096				empty	rm	0	0		 			rm 
+FLD0186				empty	rm	0	0		 			rm 
+FLD0187				empty	rm	0	0		 			rm 
+FLD0188				empty	rm	0	0		 			rm 
+FLD0189				empty	rm	0	0		 			rm 
+FLD0279				empty	rm	0	0		 			rm 
+FLD0280				empty	rm	0	0		 			rm 
+FLD0286				empty	rm	0	0		 			rm 
+FLD0287				empty	rm	0	0		 			rm 
+FLD0288				empty	rm	0	0		 			rm 
+exB1				empty	rm	0	0		 			rm 
+5951-fr-su18-3-1-A				empty	rm	0	0		 			rm 
+AH-F-03-2021				empty	rm	0	0		 			rm 
+HO-F-01-2021				empty	rm	0	0		 			rm 
+7783-fr-su18-3-1-A				empty	rm	0	0		 			rm 
+BU-F-01-2021				empty	rm	0	0		 			rm 
+29497-fr-su18-A				empty	rm	0	0		 			rm 
+29499-fr-su18-3-1-A				empty	rm	0	0		 			rm 
+AH-F-01-2021				empty	rm	0	0		 			rm 
+29517-fr-su18-1-1-A				empty	rm	0	0		 			rm 
+29509-fr-su18-1-2-A				empty	rm	0	0		 			rm 
+29494-fr-su18-A				empty	rm	0	0		 			rm 
+HO-F-03-2021				empty	rm	0	0		 			rm 
+7881-fr-su18-4-1-A				empty	rm	0	0		 			rm 
+29520-fr-su18-3-1-A				empty	rm	0	0		 			rm 
+29509-fr-su18-4-1-A				empty	rm	0	0		 			rm 
+29496-fr-su18-A				empty	rm	0	0		 			rm 
+29514-fr-su18-3-2-A				empty	rm	0	0		 			rm 
+29506-fr-su18-A				empty	rm	0	0		 			rm 
+29495-fr-su18-A				empty	rm	0	0		 			rm 
+29520-fr-su18-1-1-A				empty	rm	0	0		 			rm 
+29522-fr-su18-2-1-A				empty	rm	0	0		 			rm 
+29515-fr-su18-A				empty	rm	0	0		 			rm 
+29521-fr-su18-A				empty	rm	0	0		 			rm 
+29522-fr-su18-3-1-A				empty	rm	0	0		 			rm 
+29500-fr-su18-A				empty	rm	0	0		 			rm 
+SCH-F-03-2021				empty	rm	0	0		 			rm 
+29516-fr-su18-A				empty	rm	0	0		 			rm 
+SCH-F-01				empty	rm	0	0		 			rm 
+29514-fr-su18-3-1-A				empty	rm	0	0		 			rm 
